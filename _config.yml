@@ -32,6 +32,10 @@ plugins:
 excerpt_separator: <!--more-->
 show_excerpts: true
 
+header_pages:
+  - pages/about.md
+  - pages/navigation.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
