@@ -31,7 +31,7 @@ Your advisor might also like a printed and bound version, just ask them.
 8. After you've received feedback about your thesis from your advisor, it can still take a couple of weeks for the examination office to issue your certificate.
 This appears to be fairly common, so no worries :)
 
-Helpful links:
+Useful links:
 - [Prüfungsordnung (examination regulations)][pruefungsordnungen]: The official guidelines for your BA including your thesis. 
 Make sure you select the correct version (year, major/minor, BA/MA).
 Unfortunately, there does not seem to be an English translation available.
@@ -42,7 +42,6 @@ Unfortunately, there does not seem to be an English translation available.
 
 ---
 <br>
-Author: Verena Blaschke
 
 Written & updated: 05-MAR-2019
 
