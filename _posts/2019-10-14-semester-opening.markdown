@@ -28,6 +28,9 @@ We're looking forward to getting to know you / seeing you again!
   → [Facebook event][fb-gamenight]
 
 
+{: style="text-align: center;"}
+<img src="/files/semester-opening-ws2019.png" alt="Flyer" width="450"/>
+
 [fb-stammtisch]: https://www.facebook.com/events/643551072718347/
 [fb-cafe]: https://www.facebook.com/events/485906748667295/
 [fb-pubcrawl]: https://www.facebook.com/events/1203031733219293/
