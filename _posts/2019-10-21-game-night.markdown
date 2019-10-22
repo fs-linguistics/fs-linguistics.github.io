@@ -9,4 +9,6 @@ Dear all,
 We had to push back game night by one hour. 
 It'll take place in room **0.01** (the other large room on the ground floor of Wilhelmstr. 19) on Wednesday, Oct 23rd from **8 PM** to 11 PM.
 
+All computational & general linguistics students, Erstis and students in higher semesters alike, are welcome!
+
 We look forward to seeing you there!
