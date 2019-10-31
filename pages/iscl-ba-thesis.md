@@ -35,15 +35,15 @@ Useful links:
 - [Prüfungsordnung (examination regulations)][pruefungsordnungen]: The official guidelines for your BA including your thesis. 
 Make sure you select the correct version (year, major/minor, BA/MA).
 Unfortunately, there does not seem to be an English translation available.
-- [Module Handbook][iscl-ba-modules]: The thesis is very briefly described in module ISCL-BA-12
+- [Module Handbook][iscl-ba-modules]: The thesis is very briefly described in module ISCL-BA-12.
 - [Dr. Sauer's office hours][pruefungsamt-office-hours]
-
+- Some of the recently completed theses can be found [here](/thesis/).
 <br>
 
 ---
 <br>
 
-Written & updated: 05-MAR-2019
+Written: 05-MAR-2019
 
 [pruefungsamt-office-hours]: https://uni-tuebingen.de/en/facilities/administration/iv-student-affairs/zentrales-pruefungsamt/geisteswissenschaftliche-faecher/office-hours/
 [iscl-ba-modules]: https://uni-tuebingen.de/index.php?eID=tx_securedownloads&p=134560&u=0&g=0&t=1552416050&hash=6435fa8c71bf8895a3aa65f237fd51453c869190&file=/fileadmin/Uni_Tuebingen/Fakultaeten/Philosophie/Neuphilologie/Seminar_fuer_Sprachwissenschaften/Dokumente/BACL_HF-Modulhandbuch_eng_neu.pdf
