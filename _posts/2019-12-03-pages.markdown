@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Website updates: Theses, internships, studying abroad..."
+date:   2019-12-03 12:20:11 +0100
+categories: info
+---
+
+We're still in the process of updating this Fachschaft webpage so you all have up-to-date information about the general/computational linguistics study programmes here, and now we need your help!  
+We want to fill the pages on
+- [BA and MA theses](/thesis/)
+- [Software internships](/internship/)
+- [Studying abroad](/abroad/)
+
+<br>
+
+If you'd like to share your thesis, your internship report/presentation and/or your Erasmus/exchange report, please contact us!
+

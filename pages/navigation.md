@@ -13,7 +13,7 @@ Pages:
 
 Check back soon for information on the following topics and more. If there is something you'd like a guide on, please let us know!
 - Scheine (course completion certificates) and getting a transcript of records
-- Software internship (reports, presentations)
-- Erasmus (reports)
+- [Software internship (reports, presentations)](/internship/)
+- [Erasmus (reports) & studying abroad](/abroad/)
 - Starting the MA ISCL programme with a general linguistics background
 - And more :-)

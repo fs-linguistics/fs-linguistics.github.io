@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Erasmus
-permalink: /erasmus/
+title: Studying abroad
+permalink: /abroad/
 ---
 
 Becoming an Erasmus student
@@ -22,9 +22,3 @@ Useful Links
 
 - [Erasmus page (SfS)](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/courses-of-study/erasmus/): Partner universities, general information, application information
 
-<br>
-
----
-<br>
-
-Written & updated: 
