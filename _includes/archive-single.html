@@ -1,0 +1,17 @@
+<!-- Overriding the default to add date information and to show the full posts instead of just excerpts -->
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: 'list' }}__item">
+  <article class="archive__item">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ post.url | relative_url }}">{{ title }}</a>
+    </h2>
+    <div class="archive__item-date">{{ post.date }}</div>
+    <p>{{ post }}</p>
+  </article>
+</div>

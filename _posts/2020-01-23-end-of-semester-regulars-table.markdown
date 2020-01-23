@@ -2,7 +2,6 @@
 layout: post
 title:  "End-of-Semester Regulars' Table"
 date:   2020-01-23 18:30:00 +0100
-categories: events
 ---
 Dear general & computational linguists,
 

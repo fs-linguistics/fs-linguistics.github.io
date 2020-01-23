@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Custom changes:
+
+$link-color: #2a7ae2;
+
+article {
+    font-size: medium;
+}
+
+.archive__item {
+    font-size: medium;
+}
+
+.archive__item-date {
+    color: gray;
+}
+
+// TODO: the theme code overrides this
+.archive__item-title {
+    margin-bottom: -0.25em;
+}
+
+// Necessary imports
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

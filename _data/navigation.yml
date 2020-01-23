@@ -3,6 +3,8 @@ docs:
     children:
       - title: "About"
         url: /about/
+      - title: "Contact"
+        url: /contact/
   - title: Studying AS/ISCL
     children:
       - title: "Studying abroad"
