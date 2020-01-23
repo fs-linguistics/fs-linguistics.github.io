@@ -33,3 +33,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'jekyll-include-cache'
 gem 'faraday', '~> 0.17.3'
 gem 'jekyll-paginate'
+
+# For GitHub security reasons:
+gem "activesupport", ">= 4.1.11"
