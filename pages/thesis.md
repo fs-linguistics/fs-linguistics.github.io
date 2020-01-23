@@ -1,5 +1,4 @@
 ---
-layout: page
 title: BA and MA Theses
 permalink: /thesis/
 ---

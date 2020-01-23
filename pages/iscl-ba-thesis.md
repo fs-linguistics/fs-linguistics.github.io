@@ -1,5 +1,4 @@
 ---
-layout: page
 title: BA Thesis (ISCL)
 permalink: /iscl-ba-thesis/
 ---

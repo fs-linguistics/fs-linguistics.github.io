@@ -1,0 +1,19 @@
+docs:
+  - title: About Us
+    children:
+      - title: "About"
+        url: /about/
+  - title: Studying AS/ISCL
+    children:
+      - title: "Studying abroad"
+        url: /abroad/
+      - title: "Software internship"
+        url: /internship/
+      - title: "BA & MA theses"
+        url: /thesis/
+      - title: "Writing the ISCL BA thesis"
+        url: /iscl-ba-thesis/
+  - title: For Fachschaft Members
+    children:
+      - title: "Updating the Webpage"
+        url: /updating-the-webpage/

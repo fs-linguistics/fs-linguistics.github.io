@@ -25,9 +25,12 @@ facebook_username: fssprachwissenschaft
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
 
 excerpt_separator: <!--more-->
 show_excerpts: true
@@ -47,3 +50,80 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+##### Minimal Mistakes (theme) settings
+
+minimal_mistakes_skin : "contrast" # "air", "aqua", "contrast", "default", dark", "dirt", "neon", "mint", "plum", "sunrise"
+repository: "fs-linguistics/fs-linguistics.github.io"
+# url: "fs-linguistics.github.io"
+facebook:
+  username: "fssprachwissenschaft"
+include: ["_pages"]
+
+defaults:
+  # _docs
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "docs"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
+
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/mmistakes"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/mmistakes"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/mmistakes"
+
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+

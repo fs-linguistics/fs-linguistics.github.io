@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Updating the Webpage
 permalink: /updating-the-webpage/
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Studying abroad
 permalink: /abroad/
 ---

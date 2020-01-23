@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Software Internships (ISCL)
 permalink: /internship/
 ---
