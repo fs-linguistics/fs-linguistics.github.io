@@ -4,9 +4,18 @@
 
 @charset "utf-8";
 
-// Custom changes:
+// -------------------------------
+// Custom changes!
+// You can define variables at the bottom of _config.yml
+// and reference them with {{ site.variable_name }}
 
-$link-color: #2a7ae2;
+$link-color: {{ site.blue_col }};
+
+.sidebar.sticky {
+    border-right-style: solid;
+    border-right-width: thin;
+    border-right-color: {{ site.blue_col }};
+}
 
 article {
     font-size: medium;
@@ -18,6 +27,7 @@ article {
 
 .archive__item-date {
     color: gray;
+    margin-top: -0.5em;
 }
 
 // TODO: the theme code overrides this
@@ -25,6 +35,8 @@ article {
     margin-bottom: -0.25em;
 }
 
+// END custom changes
+// -------------------------------
 // Necessary imports
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin

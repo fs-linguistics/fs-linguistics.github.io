@@ -20,6 +20,7 @@ date: YYYY-MM-DD HH:MM:SS +0100
 ```
 3. It's also possible to add another line to the header, `categories`, e.g. `categories: events` or `categories: announcements`. Once/if we have a lot of posts, this might be interesting for filtering the posts, but for now, it's not really important.
 4. The rest of the post is the actual content, written in a flavour of Markdown called [Kramdown](https://kramdown.gettalong.org/quickref.html).
+5. You can add images or other files if you put them in a subfolder of `files`.
 
 ## Adding Pages
 
@@ -33,6 +34,7 @@ permalink: /URL-SUFFIX-HERE/
 ```
 3. The rest of the page is the actual content, written in a flavour of Markdown called [Kramdown](https://kramdown.gettalong.org/quickref.html).
 4. To create a link to the page to the sidebar, you need to add it to `_data/navigation.yml`. For intra-website links, only the permalink is necessary, not the full URL.
+5. You can add images or other files if you put them in a subfolder of `files`.
 
 ## Installing Ruby/Jekyll and Running the Page Locally
 

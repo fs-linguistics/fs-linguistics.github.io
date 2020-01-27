@@ -11,7 +11,7 @@
     <h2 class="archive__item-title" itemprop="headline">
       <a href="{{ post.url | relative_url }}">{{ title }}</a>
     </h2>
-    <div class="archive__item-date">{{ post.date }}</div>
+    <div class="archive__item-date">{{ post.date | date: "%-d %B %Y" }}</div>
     <p>{{ post }}</p>
   </article>
 </div>
