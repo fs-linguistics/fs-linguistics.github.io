@@ -7,14 +7,16 @@ docs:
         url: /contact/
   - title: Studying AS/ISCL
     children:
+      - title: "Study programme structures"
+        url: /study-programmes/
       - title: "Studying abroad"
         url: /abroad/
-      - title: "Software internship"
+      - title: "Software internships"
         url: /internship/
-      - title: "BA & MA theses"
-        url: /thesis/
       - title: "Writing the ISCL BA thesis"
         url: /iscl-ba-thesis/
+      - title: "BA & MA thesis archive"
+        url: /thesis/
   - title: For Fachschaft Members
     children:
       - title: "Updating the Webpage"

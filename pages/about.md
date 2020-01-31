@@ -13,7 +13,7 @@ If you're interested in joining us, please come to one of the regulars' tables, 
 
 ---
 
-\*Technically, the term *Fachschaft* refers to the entire SfS student body, but colloquially it is almost always used synonymously with *Fachschaftsrat* to refer to the group of student representatives. This is also how we generally use the term on this website.
+\*Technically, the term *Fachschaft* refers to the entire SfS student body, but colloquially it is almost always used synonymously with *Fachschaftsrat* to refer to the group of student representatives. This is also how we generally use the term.
 
 
 
