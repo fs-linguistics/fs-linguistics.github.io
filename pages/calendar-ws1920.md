@@ -15,5 +15,5 @@ Check the [blog](/) for up-to-date event announcements and more details!
 - 11 Nov 2019: Regulars' table @ Saints & Scolars, 6 PM
 - 06 Dec 2019: Regulars' table @ Saints & Scolars, 8 PM
 - 19 Dec 2019: Christmas party @ SfS, 8 PM
-- 07 Feb 2020: *End of the lecture period* Regulars' table @ Neckarmüller, 8 PM
+- 07 Feb 2020: *End of the lecture period*, regulars' table @ Neckarmüller, 8 PM
 - 31 Mar 2020: *End of the semester*

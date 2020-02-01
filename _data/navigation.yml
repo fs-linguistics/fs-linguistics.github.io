@@ -1,5 +1,5 @@
 docs:
-  - title: About Us
+  - title: The Fachschaft
     children:
       - title: "About"
         url: /about/
@@ -25,5 +25,5 @@ docs:
         url: /thesis/
   - title: For Fachschaft Members
     children:
-      - title: "Updating the Webpage"
+      - title: "Updating the webpage"
         url: /updating-the-webpage/
