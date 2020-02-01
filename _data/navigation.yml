@@ -5,6 +5,12 @@ docs:
         url: /about/
       - title: "Contact"
         url: /contact/
+  - title: Updates/Events
+    children:
+      - title: "Blog"
+        url: /
+      - title: "Calendar"
+        url: /calendar/
   - title: Studying AS/ISCL
     children:
       - title: "Study programme structures"

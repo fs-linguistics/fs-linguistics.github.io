@@ -254,6 +254,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-include-cache
   jekyll-paginate
+  jekyll-redirect-from
   tzinfo-data
   wdm (~> 0.1.0)
 

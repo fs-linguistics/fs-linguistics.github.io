@@ -36,3 +36,6 @@ gem 'jekyll-paginate'
 
 # For GitHub security reasons:
 gem "activesupport", ">= 4.1.11"
+
+# For the calendar link:
+gem 'jekyll-redirect-from'

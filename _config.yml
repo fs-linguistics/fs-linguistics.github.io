@@ -31,6 +31,10 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-paginate
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
 
 excerpt_separator: <!--more-->
 show_excerpts: true
