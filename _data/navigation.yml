@@ -13,6 +13,8 @@ docs:
         url: /calendar/
   - title: Studying AS/ISCL
     children:
+      - title: "Summer semester 2020"
+        url: /courses-sose2020/
       - title: "Study programme structures"
         url: /study-programmes/
       - title: "Studying abroad"
