@@ -25,6 +25,8 @@ docs:
         url: /iscl-ba-thesis/
       - title: "BA & MA thesis archive"
         url: /thesis/
+      - title: "BA thesis template (LaTeX)"
+        url: /ba-thesis-template/
   - title: For Fachschaft Members
     children:
       - title: "Updating the webpage"

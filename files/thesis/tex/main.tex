@@ -1,0 +1,128 @@
+\documentclass[a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{natbib}
+
+\usepackage[margin=1.25in]{geometry}
+\usepackage{hyperref} % links
+\usepackage{parskip} % proper paragraphs, no indentation
+\usepackage{pdfpages} % add non-plagiarism statement
+
+% For showing the month + year only as the date:
+\usepackage[en-GB]{datetime2}
+\DTMlangsetup{showdayofmonth=false}
+
+\usepackage{xcolor}
+\usepackage{blindtext} % for adding the "lorem ipsum" filler sections. delete this once you start writing your thesis.
+
+% This is used in the PDF meta data
+\title{Your Thesis Title Here}
+\author{Your Name Here}
+\date{\today}
+
+\begin{document}
+
+% The actual title page of your thesis:
+\begin{titlepage}
+\begin{center}
+\vspace*{.15\textheight}
+{\Large Bachelor's Thesis}
+\vspace{2em}
+
+\hrule
+\vspace{0.6cm}
+{\bfseries\huge
+Your Thesis Title Here
+}\\[1cm] 
+\hrule
+\vspace*{.05\textheight}
+ 
+\begin{minipage}[t]{0.49\textwidth}
+\begin{flushleft} 
+{\large
+\textit{Author}\\
+Your Name Here}\\
+\href{mailto:your-email-address-here}{\textit{your-email-address-here}}\\
+\end{flushleft}
+\end{minipage}
+\begin{minipage}[t]{0.49\textwidth}
+\begin{flushright}
+{\large
+\textit{Supervisor}\\
+Your Supervisor Here}\\
+\href{mailto:their-email-address-here}{\textit{their-email-address-here}}\\
+\end{flushright}
+\end{minipage}\\
+
+\vfill
+
+A thesis submitted in partial fulfilment\\
+of the requirements for the degree of\\[2mm]
+{\large Bachelor of Arts}\\
+in\\[1mm]
+{\large International Studies in Computational Linguistics}
+
+\vspace*{.1\textheight}
+
+{\large Seminar für Sprachwissenschaft\\
+Eberhard Karls Universität Tübingen
+
+\vspace{1em}
+\today}
+\end{center}
+\end{titlepage}
+
+% No page numbering for the abstract, the anti-plagiarism statement and the table of contents.
+\pagenumbering{gobble}
+
+%% Uncomment once you want to add the anti-plagiarism statement file
+% \newpage
+% \includepdf[pages=-]{name-of-anti-plagiarism-statement-file}
+
+\newpage
+\section*{Abstract}
+This is an \underline{unofficial} template for the ISCL BA thesis. 
+It does not follow any specific formatting guidelines (ask your supervisor if they require a specific format and change the set-up of this document as necessary).
+Feel free to modify this template as much as you'd like!
+
+The table of contents on the following page will automatically be updated with the (sub)sections, table names and figure names as you write and re-compile the file.
+This \LaTeX{} template also contains code for importing your anti-plagiarism file.
+
+Best of luck with your thesis!\\
+Your \citeauthor{fachschaft}
+
+\newpage
+\tableofcontents
+\listoftables
+\listoffigures
+\newpage
+
+\pagenumbering{arabic}
+
+\section{Introduction}
+\blindtext{}
+
+\section{Background}
+\blindtext{}
+
+\section{Data}
+\blindtext{}
+
+\section{Method}
+\blindtext{}
+
+\blindtext{}
+
+\section{Results}
+\blindtext{}
+
+\section{Discussion}
+\blindtext{}
+
+\section{Conclusion}
+\blindtext{}
+
+\bibliography{bibliography}
+\bibliographystyle{chicago}
+
+\end{document}
