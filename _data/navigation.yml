@@ -11,6 +11,8 @@ docs:
         url: /
       - title: "Calendar"
         url: /calendar/
+      - title: "RSS Feed"
+        url: /feed.xml
   - title: Studying AS/ISCL
     children:
       - title: "Summer semester 2020"
@@ -31,3 +33,5 @@ docs:
     children:
       - title: "Updating the webpage"
         url: /updating-the-webpage/
+      - title: "Berufungskommission"
+        url: /berufungskommission/
