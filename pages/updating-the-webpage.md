@@ -10,12 +10,12 @@ To add/edit blog posts or information pages, you don't need to set up Ruby/Jekyl
 Adding posts that appear on the blog section on the main page:
 
 1. Create a new file in the `_posts` directory. The file needs to follow the naming convention `YYYY-MM-DD-some-description-here.markdown`.
-2. The file should start with a special header. The actual time of day isn't important, but the date will be displayed as part of the post. You can copy and adapt this header, or just copy, rename and update one of the already existing blog posts. (Jekyll will complain about the `post` layout, but for now giving it a dummy value instead of an actual layout gives the best result.)
+2. The file should start with a special header. You can copy and adapt this header, or just copy, rename and update one of the already existing blog posts. (Jekyll will complain about the `post` layout, but for now giving it a dummy value instead of an actual layout gives the best result.)
 ```
 ---
 layout: post
 title: "POST TITLE HERE!"
-date: YYYY-MM-DD HH:MM:SS +0100
+date: YYYY-MM-DD
 ---
 ```
 3. It's also possible to add another line to the header, `categories`, e.g. `categories: events` or `categories: announcements`. Once/if we have a lot of posts, this might be interesting for filtering the posts, but for now, it's not really important.

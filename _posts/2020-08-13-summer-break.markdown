@@ -10,7 +10,7 @@ Our first meeting concerning the upcoming winter semester was yesterday.
 The main topic was how to offer covid-appropriate alternatives to our usual beginning-of-the-semester activities.
 This is the short summary of the meeting, the long version is in our Telegram group (let us know if you'd like to join!).
 
-1. Digital activities for the upcoming semester: digital Ersti (first semester student) café, either combined with or addition to digital 'speed dating' (get to know your future classmates in small groups at a time).
+1. Digital activities for the upcoming semester: digital Ersti (first semester student) café, either combined with or in addition to digital 'speed friending' (get to know your future classmates in small groups at a time).
 2. Buddy programme: Can we find enough interested 'old' students who would like to participate in a buddy programme for new students?
 3. Office hours: If possible, we'd like to organize digital Fachschaft office hours next semesters so that you all can easily contact us with questions or concerns about your studies.
 4. Discord server: We're planning to set up a Discord server (or something similar) for new students.
