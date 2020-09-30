@@ -36,11 +36,12 @@ permalink: /URL-SUFFIX-HERE/
 4. To create a link to the page to the sidebar, you need to add it to `_data/navigation.yml`. For intra-website links, only the permalink is necessary, not the full URL.
 5. You can add images or other files if you put them in a subfolder of `files`.
 
-## Installing Ruby/Jekyll and Running the Page Locally
+## Installing Ruby/Jekyll and Previewing the Page Locally
 
-1. [Install Ruby and Jekyll](https://jekyllrb.com/docs/).
-2. Clone this repository and navigate to the corresponding directory.
-3. To build the site locally, execute `bundle exec jekyll serve`. It's now available in your browser at <http://localhost:4000>. You can stop the build with `CTRL` + `C`.
+1. [Install Ruby and Jekyll](https://jekyllrb.com/docs/) (scroll past the requirements and open the guide that matches your operating system; the guides tell you how to install everything you need).
+2. Clone this repository: `git clone https://github.com/fs-linguistics/fs-linguistics.github.io.git` and navigate to the corresponding directory.
+3. Run `bundle install` to get all of the packages our website relies on.
+4. To build the site locally, run `bundle exec jekyll serve`. It's now available in your browser at <http://localhost:4000>. You can stop the build with `CTRL` + `C`. 
 
 ## Updating Changes Globally
 
