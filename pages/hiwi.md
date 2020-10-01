@@ -33,6 +33,14 @@ Many Hiwi contracts are first limited to one semester or one semester break, but
 
 YES. Unfortunately, a lot of Hiwis are not aware of this. To find out exactly how to take vacation etc., talk to who you're working for. You can also check the links below.
 
+## What else is important? / Hiwi letters
+
+You'll regularly receive letters from the LBV (Landesamt für Besoldung und Versorgung, the office that takes care of the salaries of everyone employed by the Bundesland incl. employees of public universities). 
+Typically, you don't need to reply to these letters, just read and safekeep them. 
+In general, some of them are sent to your home address and most are sent to the SfS. 
+There is a box with Hiwi letters on the first floor (=the floor above the ground floor), in a small, usually open room opposite the SfS secretary's office and next to the kitchen.
+This box sits on a small table right next to the door.
+
 ## Useful links
 
 All of these are in German. Please let us know if any of these links are broken.
@@ -51,4 +59,4 @@ If you look for Hiwi information online, make sure that you're getting Bundeslan
 
 ---
 
-Last updated September 30, 2020.
+Last updated October 1st, 2020.
