@@ -11,12 +11,12 @@ docs:
         url: /
       - title: "Calendar"
         url: /calendar/
+      - title: "Buddy programme"
+        url: /buddy-programme/
       - title: "RSS Feed"
         url: /feed.xml
   - title: Studying AS/ISCL
     children:
-      - title: "Summer semester 2020"
-        url: /courses-sose2020/
       - title: "Study programme structures"
         url: /study-programmes/
       - title: "Studying abroad"
@@ -39,3 +39,5 @@ docs:
         url: /berufungskommission/
       - title: "Email account updates"
         url: /email/
+      - title: "Old pages"
+        url: /old-pages/
