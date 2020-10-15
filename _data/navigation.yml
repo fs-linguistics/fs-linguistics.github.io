@@ -19,6 +19,8 @@ docs:
     children:
       - title: "Study programme structures"
         url: /study-programmes/
+      - title: "Using Alma"
+        url: /alma/
       - title: "Studying abroad"
         url: /abroad/
       - title: "Software internships"
