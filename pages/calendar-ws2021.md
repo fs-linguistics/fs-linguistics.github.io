@@ -12,5 +12,5 @@ Check the [blog](/) for up-to-date event announcements and more details!
 - 03 Nov 2020: Ersticafé (online), 4 PM
 - 05 Nov 2020: Virtual pub crawl (online), 8 PM
 - 10 Nov 2020: Office hour (online), 5 PM
-- 27 Feb 2020: *End of the lecture period*
+- 27 Feb 2021: *End of the lecture period*
 - 31 Mar 2021: *End of the semester*

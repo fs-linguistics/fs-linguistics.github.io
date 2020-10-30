@@ -17,22 +17,24 @@ docs:
         url: /feed.xml
   - title: Studying AS/ISCL
     children:
-      - title: "Study programme structures"
-        url: /study-programmes/
+      - title: "Courses WS 2020/21"
+        url: /courses-wise2021/
       - title: "Using Alma"
         url: /alma/
+      - title: "Study programme structures"
+        url: /study-programmes/
       - title: "Studying abroad"
         url: /abroad/
       - title: "Software internships"
         url: /internship/
-      - title: "Hiwi jobs"
-        url: /hiwi/
       - title: "Writing the ISCL BA thesis"
         url: /iscl-ba-thesis/
       - title: "BA & MA thesis archive"
         url: /thesis/
       - title: "BA thesis template (LaTeX)"
         url: /ba-thesis-template/
+      - title: "Hiwi jobs"
+        url: /hiwi/
   - title: For Fachschaft Members
     children:
       - title: "Updating the webpage"
