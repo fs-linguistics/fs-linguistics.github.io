@@ -20,4 +20,4 @@ ISCL students who still need classes for the Supplementary Area modules might be
 
 ## Other
 
-- Official university information on the summer semester: [https://uni-tuebingen.de/en/university/information-on-the-corona-virus/corona-virus-information-for-students/](https://uni-tuebingen.de/en/university/information-on-the-corona-virus/corona-virus-information-for-students/)
+- Official university information on the winter semester: [https://uni-tuebingen.de/en/university/information-on-the-corona-virus/corona-virus-information-for-students/](https://uni-tuebingen.de/en/university/information-on-the-corona-virus/corona-virus-information-for-students/)
