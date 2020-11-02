@@ -10,7 +10,7 @@ We had a meeting today to plan the start of the winter semester.
 This is just the short summary; the long version is in our Telegram group (let us know if you'd like to join!).
 
 1. **Erstiwoche**, the welcome week for new students (all events will take place online!):
-- Monday, Nov 2, 6:15 PM. Open Fachschaft meeting: get to know us and find out how the Fachschaft works and what we do!
+- Monday, Nov 2, 6:15 PM. Regulars' table / open Fachschaft meeting: get to know us and find out how the Fachschaft works and what we do!
 - Tuesday, Nov 3, 4 PM. Ersticafé (we help you with any questions about studying or living in Tübingen) and speed-friending (get to know your future classmates).
 - Thursday, Nov 5, 8 PM. Virtual pub crawl. Bring a few drinks and your favourite snack!
 2. **Intro meetings.** We will briefly introduce the Fachschaft during the SfS intro meetings for all students of General and Computational Linguistics on Monday.
