@@ -11,8 +11,6 @@ docs:
         url: /
       - title: "Calendar"
         url: /calendar/
-      - title: "Buddy programme"
-        url: /buddy-programme/
       - title: "RSS Feed"
         url: /feed.xml
   - title: Studying AS/ISCL
