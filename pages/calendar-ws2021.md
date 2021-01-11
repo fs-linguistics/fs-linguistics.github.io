@@ -16,6 +16,13 @@ Check the [blog](/) for up-to-date event announcements and more details!
 - 19 Nov 2020: FS meeting (online), 6:30 PM
 - 24 Nov 2020: Office hour (online), 4 PM
 - 27 Nov 2020: Game night (Discord), 7 PM
+- 01 Dec 2020: Office hour (online), 4 PM
 - 04 Dec 2020: Pub crawl (online), 8 PM
+- 08 Dec 2020: Office hour (online), 4 PM
+- 12 Dec 2020: FS meeting (online), 2 PM
+- 15 Dec 2020: Office hour (online), 4 PM
+- 21 Dec 2020: Holiday party (online), 8 PM
+- 11 Jan 2021: FS meeting (online), 8 PM
+- 12 Jan 2021: Office hour (online), 4 PM
 - 27 Feb 2021: *End of the lecture period*
 - 31 Mar 2021: *End of the semester*
