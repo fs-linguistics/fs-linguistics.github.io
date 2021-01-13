@@ -5,6 +5,15 @@ permalink: /updating-the-webpage/
 
 To add/edit blog posts or information pages, you don't need to set up Ruby/Jekyll. You only need to add and/or edit some files, which you can even do on the GitHub code repository itself (no actual git knowledge needed!)
 
+Overview of this page:
+- [Adding a blog post](#adding-blog-posts)
+- [Adding a (non-blog) page](#adding-pages)
+- [Previewing changes locally](#installing-rubyjekyll-and-previewing-the-page-locally)
+- [Committing changes to the website](#updating-changes-globally)
+- [GitHub security alerts](#security-alerts)
+- [Changing the blog layout/theme](#jekyll-theme-modifications)
+- [Links to Jekyll and Kramdown tutorials](#useful-links)
+
 ## Adding Blog Posts
 
 Adding posts that appear on the blog section on the main page:
@@ -41,7 +50,7 @@ permalink: /URL-SUFFIX-HERE/
 1. [Install Ruby and Jekyll](https://jekyllrb.com/docs/) (scroll past the requirements and open the guide that matches your operating system; the guides tell you how to install everything you need).
 2. Clone this repository: `git clone https://github.com/fs-linguistics/fs-linguistics.github.io.git` and navigate to the corresponding directory.
 3. Run `bundle install` to get all of the packages our website relies on.
-4. To build the site locally, run `bundle exec jekyll serve`. It's now available in your browser at <http://localhost:4000>. You can stop the build with `CTRL` + `C`. 
+4. To build the site locally, run `bundle exec jekyll serve`. It's now available in your browser at <http://localhost:4000>. You can stop the build with `CTRL` + `C`. (Don't worry about messages like `Build Warning: Layout 'post' requested in _posts/some-date-and-title-here.markdown does not exist.`)
 
 ## Updating Changes Globally
 
@@ -50,6 +59,16 @@ This can be done without installing Ruby and Jekyll, although it's a good idea t
 1. Push the changes to the shared repo.
 2. GitHub will try to rebuild the page including your changes. In the [commits tab](https://github.com/fs-linguistics/fs-linguistics.github.io/commits/master) of this repo, a green checkmark should appear as part of your commit. This can take a couple of minutes.
 3. Check the website (hard refresh, if necessary). It sometimes also takes a few minutes between GitHub adding the green checkmark to your commit and the website actually displaying the changes.
+
+## Security Alerts
+
+Every now and then, GitHub has a security concern for some package that is used to construct the website.
+
+If GitHub provides a [pull request](https://github.com/fs-linguistics/fs-linguistics.github.io/pulls) for this via *@dependabot* with a name like "Bump activesupport from 6.0.2.1 to 6.0.3.1", simply accept the pull request and you're done.
+
+Otherwise, there might just be an alert in the [Security](https://github.com/fs-linguistics/fs-linguistics.github.io/security) tab of the website's GitHub project.
+You can click on the button that invites you to perform a Dependabot security update, which will create a pull request for you that you just need to accept.
+Alternatively, the security alert will also tell you how to solve the problem yourself: Just add the code it suggests (e.g. `gem "activesupport", ">= 6.0.3.1"`) to the end of the [Gemfile](https://github.com/fs-linguistics/fs-linguistics.github.io/blob/master/Gemfile), and then run `gem install` and `gem update` (this will update [Gemfile.lock](https://github.com/fs-linguistics/fs-linguistics.github.io/blob/master/Gemfile.lock)) and commit and push the changes.
 
 ## Jekyll Theme Modifications
 

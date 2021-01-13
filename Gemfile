@@ -33,9 +33,11 @@ gem 'jekyll-include-cache'
 gem 'faraday', '~> 0.17.3'
 gem 'jekyll-paginate'
 
-# For GitHub security reasons:
-gem "activesupport", ">= 4.1.11"
-gem "kramdown", ">= 2.3.0"
-
 # For the calendar link:
 gem 'jekyll-redirect-from'
+
+# For GitHub security reasons:
+gem "activesupport", ">= 6.0.3.1"
+gem "kramdown", ">= 2.3.0"
+gem "nokogiri", ">= 1.11.0.rc4"
+
