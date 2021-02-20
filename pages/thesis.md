@@ -13,7 +13,7 @@ Please contact us if you’d like to share your thesis!
 General Linguistics (BA)
 ---
 - [Exploring the viability of polysemy networks for automated cognate detection under semantic shift](/files/thesis/GL-BA_2019_Arne-Rubehn.pdf) by Arne Rubehn (2019, supervised by Dr. Johannes Dellert)
-- [Do certain word orders attract case marking? A typological survery on the dependency of syntax and morphology](/files/thesis/GL-BA_2018_Fabio-Maion.pdf) by Fabio Maion (2018, supervised by Dr. Christian Bentz)
+- [Do certain word orders attract case marking? A typological survey on the dependency of syntax and morphology](/files/thesis/GL-BA_2018_Fabio-Maion.pdf) by Fabio Maion (2018, supervised by Dr. Christian Bentz)
 
 
 ISCL (MA)
