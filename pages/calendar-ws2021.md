@@ -25,4 +25,5 @@ Check the [blog](/) for up-to-date event announcements and more details!
 - 11 Jan 2021: FS meeting (online), 8 PM
 - 12 Jan 2021: Office hour (online), 4 PM
 - 27 Feb 2021: *End of the lecture period*
+- 09 Mar 2021: FS meeting (online), 7 PM
 - 31 Mar 2021: *End of the semester*
