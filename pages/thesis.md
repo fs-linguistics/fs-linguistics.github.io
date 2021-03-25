@@ -19,6 +19,7 @@ General Linguistics (BA)
 ISCL (MA)
 ---
 - [Automated sound law inference using Probabilistic Soft Logic](http://www.tdaneyko.de/MAThesis) by Thora Daneyko (2020, supervised by Dr. Johannes Dellert and Prof. Gerhard Jäger)
+- [Android app development for language learning: Combining input and interaction in learning German through song lyrics](/files/thesis/ISCL-MA_2020_Alina-Baranova.pdf) by Alina Baranova (2020, supervised by Prof. Detmar Meurers and Dr. Johannes Dellert)
 - [Acoustic dialect recognition using deep learning](https://github.com/ryancallihan/thesis_project) by Ryan Callihan (2018, supervised by Dr. Çağrı Çöltekin and Prof. Kurt Eberle)
 
 
