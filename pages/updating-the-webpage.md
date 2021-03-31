@@ -68,7 +68,15 @@ If GitHub provides a [pull request](https://github.com/fs-linguistics/fs-linguis
 
 Otherwise, there might just be an alert in the [Security](https://github.com/fs-linguistics/fs-linguistics.github.io/security) tab of the website's GitHub project.
 You can click on the button that invites you to perform a Dependabot security update, which will create a pull request for you that you just need to accept.
-Alternatively, the security alert will also tell you how to solve the problem yourself: Just add the code it suggests (e.g. `gem "activesupport", ">= 6.0.3.1"`) to the end of the [Gemfile](https://github.com/fs-linguistics/fs-linguistics.github.io/blob/master/Gemfile), and then run `gem install` and `gem update` (this will update [Gemfile.lock](https://github.com/fs-linguistics/fs-linguistics.github.io/blob/master/Gemfile.lock)) and commit and push the changes.
+Alternatively, the security alert will also tell you how to solve the problem yourself: Just add the code it suggests (`gem "gem-name-here", ">= version.number.here"`) to the end of the [Gemfile](https://github.com/fs-linguistics/fs-linguistics.github.io/blob/master/Gemfile), and then run:
+```
+gem install gem-name-here
+gem update gem-name-here
+bundle update gem-name-here
+bundle install
+```
+This will update [Gemfile.lock](https://github.com/fs-linguistics/fs-linguistics.github.io/blob/master/Gemfile.lock).
+Commit and push the changes.
 
 ## Jekyll Theme Modifications
 
@@ -84,10 +92,3 @@ To override a file from the theme, simply create a new file in our repo that has
 - <https://github.com/ssaunier/jekyll-intro>
 - <https://michaelsoolee.com/jekyll-post-page/>
 - <https://kramdown.gettalong.org/quickref.html>
-
-<br>
-
----
-<br>
-
-Last updated: 27-JAN-2020
