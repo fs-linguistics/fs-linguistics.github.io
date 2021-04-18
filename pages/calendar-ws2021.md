@@ -1,8 +1,6 @@
 ---
 title: Calendar Winter 2020/2021
 permalink: /calendar-ws2021/
-redirect_from:
-    - /calendar/
 ---
 
 Check the [blog](/) for up-to-date event announcements and more details!
