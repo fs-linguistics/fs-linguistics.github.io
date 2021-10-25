@@ -23,6 +23,8 @@ Group 2:
 - 20:30 - 21:30 Stadtpost
 - 21:30 - 22:30 Storchen
 
+\[Edit: If you plan on joining us, **please fill out** [**this sign-up form**](https://forms.gle/Sd541AfC8PWSjZ1Z9) so we can get a better idea of how many people will join us :-)\]
+
 See you soon!
 
 – The Fachschaft
