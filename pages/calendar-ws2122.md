@@ -12,5 +12,6 @@ Check the [blog](/) for up-to-date event announcements and more details!
 - 18 Oct 2021: *SfS orientation meetings*, online
 - 18 Oct 2021: **Regulars' table**, Saints & Scholars, 8 PM
 - 22 Oct 2021: **Ersticafé**, online, 2 PM
-- 29 Oct 2021: **Pub crawl**, SfS, 6 PM → [sign-up form](https://forms.gle/Sd541AfC8PWSjZ1Z9)
+- 29 Oct 2021: **Pub crawl**, SfS, 6 PM
+- 02 Nov 2021: **FS meeting**, online, 8 PM
 - 31 Mar 2022: *End of the semester*
