@@ -57,28 +57,25 @@ Other companies that offer internships not especially for computational linguist
 - [Trustner](https://trustner.com/karriere/) (perviously Careon)
 - [Vector Informatik GmbH](https://jobs.vector.com/hr_index_en.html)
 
-
-[Work in progress, we'll add links to the list below soon]
-
-Additionally, search engines may help you further to find a company. Job portals are also a very good opportunity to do a specialized search for internships, for example:
-- Absolventa
-- Adzuna
-- Careerjet
-- Experteer.de
-- Glassdoor
-- Jobbörse.de
-- Jobrapido
-- Jobstairs
-- JOBSUMA
-- Jobware
-- Jobted
-- Linguist List
-- Locanto
-- meinpraktikum.de
-- Monster
-- NLP People
-- Praxisportal of the Faculty of Humanities
-- Stellenanzeigen.de
-- Stepstone
-- Trovit
-- Yourfirm
+Job portals are also a very good opportunity to do a specialized search for internships, for example:
+- [Absolventa](https://www.absolventa.de/stellenangebote)
+- [Adzuna](https://www.adzuna.de/search?adv=1&qwd=Praktikum%20Software&w=T%C3%BCbingen,%20T%C3%BCbingen%20%28Kreis%29&d=50)
+- [Careerjet](https://www.careerjet.de/)
+- [Experteer.de](https://www.experteer.de/jobs-t%C3%BCbingen-informationstechnologie-cid9801ind7800)
+- [Glassdoor](https://www.glassdoor.de/index.htm)
+- [Jobbörse.de](https://www.jobbörse-stellenangebote.de/praktikumspl%C3%A4tze-in-t%C3%BCbingen/)
+- [Jobrapido](https://de.jobrapido.com/?w=praktikum+software&l=t%C3%BCbingen&r=60)
+- [Jobstairs](https://www.jobstairs.de/)
+- [JOBSUMA](https://www.jobsuma.de/praktikum/tuebingen)
+- [Jobware](https://www.jobware.de/)
+- [Jobted](https://de.jobted.com/)
+- [Linguist List](https://linguistlist.org/career/search/)
+- [Locanto](https://tuebingen.locanto.de/q/?query=software&dist=30)
+- [meinpraktikum.de](https://www.meinpraktikum.de/)
+- [Monster](https://www.monster.de/)
+- [NLP People](https://nlppeople.com/)
+- [Praxisportal of the Faculty of Humanities](https://www.praxisportal.uni-tuebingen.de/signin)
+- [Stellenanzeigen.de](https://www.stellenanzeigen.de/stellenangebote/tuebingen/it/)
+- [Stepstone](https://www.stepstone.de/)
+- [Trovit](https://de.trovit.com/jobs/)
+- [Yourfirm](https://www.yourfirm.de/)
