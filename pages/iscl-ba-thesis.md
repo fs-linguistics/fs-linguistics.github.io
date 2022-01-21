@@ -7,7 +7,7 @@ The unofficial(!) guide to steps to follow for registering and submitting your B
 They are based on my experiences writing my BA thesis in summer 2018, and the information I'd have found useful to know beforehand.
 
 1. Find an advisor. They need to have at least an MA degree.
-The ISCL BA coordinator (as of November 2020: Dr. Çöltekin) is the person to go to if you have questions about the process of writing your thesis but no advisor yet.
+The ISCL BA coordinator (as of November 2021: Dr. Çöltekin) is the person to go to if you have questions about the process of writing your thesis but no advisor yet.
 Generally, it's a good idea to talk with potential advisors early on so you can find out if your research interests line up and if they have time to supervise your thesis.
 Most students' advisors are lecturers whose classes they have taken or researchers they know from their Hiwi work.
 2. Find a *specific* topic you want to research.
@@ -42,7 +42,7 @@ Unfortunately, there does not seem to be an English translation available.
 ---
 <br>
 
-Updated: 02-NOV-2020
+Updated: 02-NOV-2021
 
 [pruefungsamt-office-hours]: https://uni-tuebingen.de/en/facilities/administration/iv-student-affairs/zentrales-pruefungsamt/geisteswissenschaftliche-faecher/office-hours/
 [iscl-ba-modules]: https://uni-tuebingen.de/index.php?eID=tx_securedownloads&p=134560&u=0&g=0&t=1552416050&hash=6435fa8c71bf8895a3aa65f237fd51453c869190&file=/fileadmin/Uni_Tuebingen/Fakultaeten/Philosophie/Neuphilologie/Seminar_fuer_Sprachwissenschaften/Dokumente/BACL_HF-Modulhandbuch_eng_neu.pdf
