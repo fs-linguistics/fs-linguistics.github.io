@@ -212,9 +212,9 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
     multipart-post (2.1.1)
-    nokogiri (1.13.2-x64-mingw32)
+    nokogiri (1.13.3-x64-mingw32)
       racc (~> 1.4)
-    nokogiri (1.13.2-x86_64-linux)
+    nokogiri (1.13.3-x86_64-linux)
       racc (~> 1.4)
     octokit (4.20.0)
       faraday (>= 0.9)
@@ -256,6 +256,7 @@ GEM
     unf_ext (0.0.7.7)
     unf_ext (0.0.7.7-x64-mingw32)
     unicode-display_width (1.7.0)
+    wdm (0.1.1)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -271,9 +272,10 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-redirect-from
   kramdown (>= 2.3.1)
-  nokogiri (>= 1.12.5)
+  nokogiri (>= 1.13.2)
   rouge (>= 3.26.0)
   tzinfo-data
+  wdm (~> 0.1.0)
 
 BUNDLED WITH
    2.2.15
