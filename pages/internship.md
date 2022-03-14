@@ -65,6 +65,7 @@ Job portals are also a very good opportunity to do a specialized search for inte
 - [Glassdoor](https://www.glassdoor.de/index.htm)
 - [Jobbörse.de](https://www.jobbörse-stellenangebote.de/praktikumspl%C3%A4tze-in-t%C3%BCbingen/)
 - [Jobrapido](https://de.jobrapido.com/?w=praktikum+software&l=t%C3%BCbingen&r=60)
+- [Jobsora](https://de.jobsora.com)
 - [Jobstairs](https://www.jobstairs.de/)
 - [JOBSUMA](https://www.jobsuma.de/praktikum/tuebingen)
 - [Jobware](https://www.jobware.de/)
