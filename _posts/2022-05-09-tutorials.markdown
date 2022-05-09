@@ -13,7 +13,7 @@ Every Tuesday:
 - 14:15 – 15:45 - Room 1.13 @ SfS
 
 Every Thursday:
-- 16:15 – 17:45 - Room 035 @ Brechtbau
+- 18:15 – 19:45 - Room 035 @ Brechtbau
 
 We're looking forward to meeting you!
 
