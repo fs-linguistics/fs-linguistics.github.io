@@ -17,8 +17,6 @@ docs:
     children:
       - title: "Glossary"
         url: /glossary/
-      - title: "Courses WS 2020/21"
-        url: /courses-wise2021/
       - title: "Using Alma"
         url: /alma/
       - title: "Study programme structures"
