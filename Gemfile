@@ -39,5 +39,5 @@ gem 'jekyll-redirect-from'
 # For GitHub security reasons:
 gem "activesupport", ">= 6.0.3.1"
 gem "kramdown", ">= 2.3.1"
-gem "nokogiri", ">= 1.13.2"
+gem "nokogiri", ">= 1.13.5"
 gem "rouge", ">= 3.26.0"
