@@ -10,4 +10,4 @@ here's the **registration form for our pre-course** which takes place October 10
 
 Make sure to not miss it if you want to start your studies prepared and informed. :)
 
-- The Fachschaft.
+– The Fachschaft
