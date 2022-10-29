@@ -1,8 +1,6 @@
 ---
 title: Calendar Summer 2022
 permalink: /calendar-sose22/
-redirect_from:
-    - /calendar/
 ---
 
 Check the [blog](/) for up-to-date event announcements and more details!
