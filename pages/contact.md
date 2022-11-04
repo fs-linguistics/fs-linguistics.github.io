@@ -9,7 +9,11 @@ Facebook: [fssprachwissenschaft](https://www.facebook.com/fssprachwissenschaft)
 
 Moodle: [Fachschaft of General and Computational Linguistics](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=1181)
 
+Instagram : [linguistics_fachschaft_tue](https://www.instagram.com/linguistics_fachschaft_tue/)
+
 Discord: ISCL/GL Students (link on the Moodle page)
+
+[Other useful Links](https://linktr.ee/linguistics_sfs_tue)
 
 Mailing address:
 > Fachschaft Sprachwissenschaft
