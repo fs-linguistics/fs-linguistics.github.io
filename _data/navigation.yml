@@ -5,6 +5,8 @@ docs:
         url: /about/
       - title: "Contact"
         url: /contact/
+      - title: "Help"
+        url: /help/
   - title: Updates/Events
     children:
       - title: "Blog"
