@@ -92,6 +92,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/fssprachwissenschaft"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/linguistics_fachschaft_tue/"
 
 include:
   - .htaccess
