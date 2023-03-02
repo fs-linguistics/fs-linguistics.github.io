@@ -41,6 +41,7 @@ Other companies that offer internships not especially for computational linguist
 - [cabuu GmbH](https://www.cabuu.app/)
 - [Devoteam](https://de.devoteam.com/karriere/) (previously Danet)
 - [Deutsche Telekom AG](https://www.telekom.com/de/karriere/studenten/praktikum)
+- [EY](https://www.ey.com/en_gl/forensic-integrity-services)
 - [Fraunhofer](https://recruiting.fraunhofer.de/Jobs/1)
 - [Fujitsu](https://fujitsu.referrals.selectminds.com/default1333/location/germany-opportunities-at-fujitsu-9)
 - [Hewlett Packard](https://jobs.hp.com/)
