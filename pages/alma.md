@@ -28,6 +28,10 @@ Here you see the programs, including ones that are outdated for some reason. Cli
 Under it, you should see your modules. You might see that different modules have the same contents. This is because you can choose the module to allocate your class to. You might also have repeats of the same class. This because for many classes, you can choose how many credits you want to receive. 
 
 
+### Extra help
+
+
+[This is a guide for Master's students, but also has some info on using Alma, which may be helpful](/files/other/almaguide.pdf)
 
 
 [^1]: _Irony_
