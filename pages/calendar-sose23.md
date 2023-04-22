@@ -1,5 +1,5 @@
 ---
-title: Calendar Winter 2023
+title: Calendar Summer 2023
 permalink: /calendar-ss2023/
 redirect_from:
     - /calendar/
