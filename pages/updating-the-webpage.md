@@ -16,6 +16,15 @@ Overview of this page:
 
 ## Adding Blog Posts
 
+### Quick and Dirty method 
+
+```
+cd _posts
+python3 make_post.py "Name Of Post"
+```
+
+### Manual method
+
 Adding posts that appear on the blog section on the main page:
 
 1. Create a new file in the `_posts` directory. The file needs to follow the naming convention `YYYY-MM-DD-some-description-here.markdown`.
