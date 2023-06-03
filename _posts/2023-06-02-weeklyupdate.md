@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weekly Update"
-date: 2023-05-27
+date: 2023-06-02
 ---
 
 Hello everyone. 
@@ -22,7 +22,6 @@ We are also making the general purpose tutorials a weekly things, so if you want
 # Plans
 
 Are you graduating soon? We are considering doing a graduating party. Please get in touch if you actually care. 
-
 
 
 
