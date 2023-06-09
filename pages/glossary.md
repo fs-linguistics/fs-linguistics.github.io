@@ -18,6 +18,7 @@ permalink: /glossary/
     + PS (Proseminar) = typically a BA-level seminar that might be a bit more advanced than the introductory lectures (usually worth 3-6 CP)
     + HS (Hauptseminar) = a seminar for MA and advanced BA students (usually worth 6-9 CP)
     + OS (Oberseminar) = a discussion group for current topics in a research group, for SfS staff and interested students (no CP)
-- The department's building in Wilhelmstraße 19 has many names: SfS, VG (Verfügungsgebäude), Blochbau.
+- ~~The department's building in Wilhelmstraße 19 has many names: SfS, VG (Verfügungsgebäude), Blochbau.~~ We don't live there anymore, we moved to Keplerstraße 2. 
+- Fachschaft Room: Technically not the Fachschaft and any student can use the room. It's room 049 in Keplerstraße 2. 
 - UB (Universitätsbibliothek) = UniBib = university library
 - FSZ (Fachsprachenzentrum/Fremdsprachenzentrum) = language centre
