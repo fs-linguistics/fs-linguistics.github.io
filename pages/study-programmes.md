@@ -38,8 +38,11 @@ Although you might not necessarily be able to receive credit points for Statisti
 
 Many ISCL MA students with a general linguistics background begin their MA studies by catching up on the computational side while taking courses for the supplementary area, and then focus on the core ISCL courses later. This can be easier if you plan to complete your MA studies in 5-6 semesters instead of the standard 4 semesters.
 
+### Graded vs Ungraded 
 
-#### Help I'm still confused!
+Graded courses mean you will get a grade. **Un**graded means you can slack off with minimal effort, and still pass. 
+
+### Help I'm still confused!
 [This is a very helpful guide that will hopefully answer all your questions!](/files/other/almaguide.pdf)
 ---
 
