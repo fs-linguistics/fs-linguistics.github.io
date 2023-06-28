@@ -11,6 +11,6 @@ If it is an urgent and or life threatening emergency, call the police.
 
 # Where meeting?
 
-Our up to date meeting times are on our contact page. [/help/](link) 
+Our up to date meeting times and location are on our contact page. [/help/](link) 
 
 
