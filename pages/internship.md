@@ -25,7 +25,7 @@ Here is a list of companies that frequently offer internships for computational 
 - [IBM](https://www.ibm.com/de-de/employment/index.html)
 - [Kenbun IT AG](https://www.kenbun.de/en/career/)
 - [Microsoft](https://careers.microsoft.com/us/en)
-- [MineHub](https://meinhub.de/karriere/)
+- [Meinhub](https://meinhub.de/karriere/)
 - [Naver Labs Europe](https://europe.naverlabs.com/careers/) (previously Xerox Research Centre Europe)
 - [Sony](https://www.sonyjobs.com/jobs.html)
 - [Transline](https://www.transline.de/ueber-uns/stellenangebote-neu)
