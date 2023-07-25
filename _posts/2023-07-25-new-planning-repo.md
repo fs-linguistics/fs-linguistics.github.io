@@ -12,6 +12,6 @@ Or maybe you thought the meeting was too boring because nothing got done?
 To address these issues, we've decided to open a Github Repo to help with planning events. It is public, so anyone can contribute without even coming to our meetings. It will also help with transparency, so everybody knows what is going on, and what the current event is. 
 
 
-The link is [here](https://github.com/fs-linguistics/fs-linguistics.github.io). 
+The link is [here](https://github.com/fs-linguistics/Fachschaft-Planning). 
 
 
