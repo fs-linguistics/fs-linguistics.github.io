@@ -11,7 +11,7 @@ Moodle: [Fachschaft of General and Computational Linguistics](https://moodle.zdv
 
 Instagram : [linguistics_fachschaft_tue](https://www.instagram.com/linguistics_fachschaft_tue/)
 
-Discord: ISCL/GL Students (link on the Moodle page)
+Discord: ISCL/GL Students [Discord](https://discord.gg/FcaEeaE6WN)
 
 [Other useful Links](https://linktr.ee/linguistics_sfs_tue)
 
