@@ -28,4 +28,8 @@ Ready to share your knowledge, make a difference, and get paid? Brilliant! Pleas
 
 📝 Register here: [Form](https://docs.google.com/forms/d/e/1FAIpQLSedoyzElG-E7TcjJ_YSnEIQraCkEsBqD9gllwoAxceWynhvcw/viewform?usp=sf_link)
 
+Or use the fancy embedded form. 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSedoyzElG-E7TcjJ_YSnEIQraCkEsBqD9gllwoAxceWynhvcw/viewform?embedded=true" width="640" height="1056" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 Thank you in advance for your contribution. Your experience, guidance, and friendly demeanor can make a world of difference for a first-semester student. Together, let's ensure their first week is one for the books!
