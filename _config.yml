@@ -66,6 +66,8 @@ include: ["_pages"]
 locale: en
 logo: "files/site/logo.jpg"
 
+future: true
+
 defaults:
   # _docs
   - scope:
