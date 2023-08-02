@@ -50,4 +50,4 @@ permalink: /resources/
 
 # Help my favorite resource by XYZ isn't here
 
-Send a pull request or contact someone to do it for you. 
+Send a pull request or contact annika.ott@student.uni-tuebingen.de to do it for you. 
