@@ -9,7 +9,7 @@ permalink: /resources/
 -  EMNLP: Empirical Methods in Natural Language Processing
 
 -  [LREC: Language Resources and Evaluation](http://www.lrec-conf.org/)
--  
+  
 ## Data Collections & Corpora
 
 - [British National Corpus (BNC)](http://www.natcorp.ox.ac.uk)
