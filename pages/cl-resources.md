@@ -44,3 +44,7 @@ permalink: /resources/
 - [Diversity in Linguistics](https://div-ling.org/)
    - they offer a 'Statistics for Linguistics' course
 
+
+# Help my favorite resource by XYZ isn't here
+
+Send a pull request or contact someone to do it for you. 
