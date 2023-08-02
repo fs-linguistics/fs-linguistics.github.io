@@ -1,13 +1,16 @@
 ---
-title: General Resources for your computational linguistics journey
+title: General Resources for Your Computational Linguistics Journey
 permalink: /resources/
 ---
 
 ## Data Collections & Corpora
 
-- British National Corpus (BNC)
+- [British National Corpus (BNC)](http://www.natcorp.ox.ac.uk)
+    - 100 million words of text
+    - range of genres: spoken, fiction, magazines, newspapers, academic, etc.
 
-- Corpus of Contemporary American English (COCA)
+- [Corpus of Contemporary American English (COCA)] (https://www.english-corpora.org/coca/)
+    - 25+ million words each year, 1990-2019
 
 -  [Linguistic Data Consortium (LDC)](https://www.ldc.upenn.edu)
     - creation, collection and distribution of speech and text databases, lexicons, and other resources for linguistics research and development purposes
