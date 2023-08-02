@@ -10,6 +10,11 @@ If it is an urgent and or life threatening emergency, call the police.
 
 
 # Where meeting?
-Our up to date meeting times and location are on our contact page. [here](https://fs-linguistics.github.io/contact/) . 
+Our up to date meeting times and location are on our [contact page](https://fs-linguistics.github.io/contact/) . 
+
+
+# How 2 Computational Linguistics?
+
+[Check out our resources page](/resources/)
 
 
