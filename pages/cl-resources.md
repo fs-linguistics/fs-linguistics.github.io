@@ -9,7 +9,7 @@ permalink: /resources/
     - 100 million words of text
     - range of genres: spoken, fiction, magazines, newspapers, academic, etc.
 
-- [Corpus of Contemporary American English (COCA)] (https://www.english-corpora.org/coca/)
+- [Corpus of Contemporary American English (COCA)](https://www.english-corpora.org/coca/)
     - 25+ million words each year, 1990-2019
 
 -  [Linguistic Data Consortium (LDC)](https://www.ldc.upenn.edu)
