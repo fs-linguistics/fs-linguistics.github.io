@@ -2,7 +2,14 @@
 title: General Resources for Your Computational Linguistics Journey
 permalink: /resources/
 ---
+## Conferences
 
+-  CICLing: International Conference on Computational Linguistics and Intelligent Text Processing
+
+-  EMNLP: Empirical Methods in Natural Language Processing
+
+-  [LREC: Language Resources and Evaluation](http://www.lrec-conf.org/)
+-  
 ## Data Collections & Corpora
 
 - [British National Corpus (BNC)](http://www.natcorp.ox.ac.uk)
@@ -28,19 +35,16 @@ permalink: /resources/
 
 ### Current Trends
 
+## Tools
+
+- [Overleaf](https://www.overleaf.com)
+    - cloud-based LATEX editor to be used in your browser
+
 ## Tutorials
 
 ### Videos
 
 ### Written Form
-
-## Conferences
-
--  CICLing: International Conference on Computational Linguistics and Intelligent Text Processing
-
--  EMNLP: Empirical Methods in Natural Language Processing
-
--  [LREC: Language Resources and Evaluation](http://www.lrec-conf.org/)
 
 ## Other
 
