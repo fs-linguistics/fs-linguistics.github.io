@@ -1,6 +1,6 @@
 ---
 title: Calendar Summer 2023
-permalink: /calendar-ss2023/
+permalink: /calendar-general/
 redirect_from:
     - /calendar/
 ---
