@@ -1,12 +1,26 @@
 ---
-title: Calendar Summer 2023
+title: Calendar Winter 2023/2024
 permalink: /calendar-general/
 redirect_from:
     - /calendar/
 ---
 
+## Fachschaft activities
 
-(General University Dates)[https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/semestertermine/semestertermine-bis-2027/] 
+- **Fachschaft meetings** Every Friday at 5 PM on our (Discord)[https://discord.gg/FcaEeaE6WN]. Check our (planning page)[https://github.com/fs-linguistics/Fachschaft-Planning] to see what the agenda is going to be.
 
-- Every Friday at 5 PM on our Discard: Fachschaft meetings
+## General University Dates
+
+Winter Semester runs from 1 October 2023 to 31 March 2024.
+
+- Start of the lecture period: Monday 16 October 2023
+- Lecture-free days:
+    - Allerheiligen Wednesday 1 November 2023
+    - Holiday break: from Saturday 23 December 2023 to Saturday 6 January 2024
+- End of the lecture period: Saturday 10. February 2024
+- Re-enrollment period: from 1 June 2023 to 15 August 2023
+
+For further information check the (university website)[https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/semestertermine/semestertermine-bis-2027/] 
+
+
 
