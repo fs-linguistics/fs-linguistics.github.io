@@ -38,6 +38,9 @@ permalink: /resources/
 
 ## Tools
 
+- [From Data to Viz](https://www.data-to-viz.com/)
+    - helps you find the appropriate visualisation for your data
+
 - [Overleaf](https://www.overleaf.com)
     - cloud-based LATEX editor to be used in your browser
 
