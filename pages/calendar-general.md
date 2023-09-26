@@ -7,7 +7,7 @@ redirect_from:
 
 ## Fachschaft activities
 
-- **Fachschaft meetings** Every Friday at 5 PM on our (Discord)[https://discord.gg/FcaEeaE6WN]. Check our (planning page)[https://github.com/fs-linguistics/Fachschaft-Planning] to see what the agenda is going to be.
+- **Fachschaft meetings** Every Friday at 5 PM on our [Discord](https://discord.gg/FcaEeaE6WN). Check our [planning page](https://github.com/fs-linguistics/Fachschaft-Planning) to see what the agenda is going to be.
 
 ## General University Dates
 
@@ -20,7 +20,7 @@ Winter Semester runs from 1 October 2023 to 31 March 2024.
 - End of the lecture period: Saturday 10. February 2024
 - Re-enrollment period: from 1 June 2023 to 15 August 2023
 
-For further information check the (university website)[https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/semestertermine/semestertermine-bis-2027/] 
+For further information check the [university website](https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/semestertermine/semestertermine-bis-2027/) 
 
 
 
