@@ -17,7 +17,7 @@ October 9th to October 13th, 10AM to 12PM (Monday to Friday)
 - Interactive Q&A Sessions: Post-course, participate in lively Q&A sessions and clarify any lingering questions!
 
 # 📍 Where?
-Meet us at Tübingen University! Where exactly? We don't yet (blame German bureaucracy), but join the groupchat, and we will also upload it to the website. Can’t make it? No worries, we’ll upload the slides for all the Ersties to catch up!
+Meet us at Tübingen University! Where exactly? We don't know yet (blame German bureaucracy), but join the groupchat, and we will also upload it to the website. Can’t make it? No worries, we’ll upload the slides for all the Ersties to catch up!
 
 # 🌈 Why Attend?
 - Gain Insight: Suitable for all, from tech aficionados to beginners, offering a wealth of knowledge!
