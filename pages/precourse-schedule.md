@@ -5,6 +5,8 @@ permalink: /precrouse-schedule-23-24/
 
 # 📅 Schedule
 
+Add the schedule to your calendar <a href="webcal://fs-linguistics.github.io/files/Precourse.ics”>here (ics)</a>!
+
 | Date | Time  |
 |------|---|
 |Mon, 9. Oct | 10AM - 12PM  |
