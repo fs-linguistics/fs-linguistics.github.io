@@ -8,6 +8,7 @@ redirect_from:
 ## Fachschaft activities
 
 - **Fachschaft meetings** Every Friday at 5 PM on our [Discord](https://discord.gg/FcaEeaE6WN). Check our [planning page](https://github.com/fs-linguistics/Fachschaft-Planning) to see what the agenda is going to be.
+- **Precourse** 9 - 13 October - Opportunity for ersties to get a glimpse into what their first semester will be like and a great way to get to know each other. [See the full schedule](/precourse-schedule/)
 
 ## General University Dates
 
