@@ -22,7 +22,7 @@ October 9th to October 13th 2023, just before the lecture period starts!
 
 # 📍 Where?
 
-Meet us at Tübingen University in one of the rooms where you might have lectures later on! Right amongst the other university buildings on Wilhelmstraße, our event will take place in Verfügungsgebäude, Wilhelmstraße 19 ([see a map](https://maps.app.goo.gl/tBdEHvwmnr7vGT199)), in room 0.01 (when you enter the building, it’s the first door on your left).
+Meet us at the University of Tübingen in one of the lecture halls where you might have lectures later on! The event will take place in the building of our Seminar für Sprachwissenschaft in [Keplerstraße 2](https://maps.app.goo.gl/LDWE8KULtZEaV9FZ6), lecture hall 001 (when you enter through the main door from Keplerstraße, it’s the first door on your left).
 
 
 # 🌈 Why Attend?
@@ -35,7 +35,7 @@ We also have gifts.
 
 # Let us know that you are coming!
 
-Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSenVUaydGj_pgfPQ1-4RxMf7sJ5BuPwLCXIlf8b6VW_PCGBGQ/viewform) to let us know that you are coming! We have a lecture room prepared, but the capacity is limited.
+Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSenVUaydGj_pgfPQ1-4RxMf7sJ5BuPwLCXIlf8b6VW_PCGBGQ/viewform) to let us know that you are coming!
 
 # 🌐 Stay Connected!
 
