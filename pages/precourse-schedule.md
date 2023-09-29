@@ -5,7 +5,7 @@ permalink: /precourse-schedule/
 
 # 📅 Schedule
 
-Add the schedule to your calendar <a href="webcal://fs-linguistics.github.io/files/Precourse.ics”>here (ics)</a>!
+Add the schedule to your calendar [here (ics)](webcal://fs-linguistics.github.io/files/Precourse.ics)!
 
 | Date | Time  |
 |------|---|
