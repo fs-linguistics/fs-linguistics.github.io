@@ -1,6 +1,6 @@
 ---
 title: Precourse schedule (WS 23/24)
-permalink: /precrouse-schedule-23-24/
+permalink: /precourse-schedule/
 ---
 
 # 📅 Schedule
