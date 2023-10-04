@@ -18,7 +18,7 @@ Ersti is what we call first-semester students at German universities. So, if you
 
 October 9th to October 13th 2023, just before the lecture period starts! 
 
-**We unofficially start on Monday at 9am by meeting for coffee at a student run coffee shop [Willis](https://maps.app.goo.gl/6v9U4tKU8v6W5ymB6).**
+**We unofficially start on Monday at 9AM by meeting for coffee at a student-run coffee shop [Willis](https://maps.app.goo.gl/6v9U4tKU8v6W5ymB6).**
 
 [See the full schedule](/precourse-schedule/)
 
