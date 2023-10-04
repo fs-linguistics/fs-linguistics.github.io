@@ -7,13 +7,15 @@ permalink: /precourse-schedule/
 
 Add the schedule to your calendar [here (ics)](webcal://fs-linguistics.github.io/files/Precourse.ics)!
 
-| Date | Time  |
-|------|---|
-|Mon, 9. Oct | 10AM - 12PM  |
-|Tue, 10. Oct | 2PM - 4PM  |
-|Wed, 11. Oct | 2PM - 4PM  |
-|Thu, 12. Oct | 10AM - 12PM  |
-|Fri, 13. Oct | 10AM - 12PM  |
+**We unofficially start on Monday at 9AM by meeting for coffee at a student-run coffee shop [Willis](https://maps.app.goo.gl/6v9U4tKU8v6W5ymB6).**
+
+| Date         | Time        | Content                                                                                                                                       |
+| ------------ | ----------- | -------- |
+| Mon, 9. Oct  | 10AM - 12PM | • Official start of the precourse <br> • Introduction to Computational Linguistics <br> • Overview of the university platforms <br> • Tour of the campus |
+| Tue, 10. Oct | 2PM - 4PM   | • Overview of the program structure <br> • Information about 1st semester courses <br> • How to sign up for courses<br> • Overview of language courses |
+| Wed, 11. Oct | 2PM - 4PM   | • Gentle introduction to programming <br> • Introduction to Git, command line, and debugging |
+| Thu, 12. Oct | 10AM - 12PM | • Setting-up programming tools - Java, Python, Visual Studio Code |
+| Fri, 13. Oct | 10AM - 12PM | • Q&A session <br> • Living in Tübingen <br> • Optionally finish setting-up programming tools |
 
 ## 📍 Where?
 
@@ -27,6 +29,4 @@ Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSenVUaydGj_
 
 ## 🌐 Stay Connected!
 
-https://chat.whatsapp.com/Djz1guUfBbx06rsRKQigfe
-
-Join the ersties groupchat, where we will also update you if there are any last minute changes. Can’t make it to the precourse? No worries, we’ll upload the slides for all the Ersties to catch up!
+Join [the ersties groupchat](https://chat.whatsapp.com/Djz1guUfBbx06rsRKQigfe), where we will also update you if there are any last minute changes. Can’t make it to the precourse? No worries, we’ll upload the slides for all the Ersties to catch up!
