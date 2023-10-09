@@ -11,7 +11,7 @@ Add the schedule to your calendar [here (ics)](webcal://fs-linguistics.github.io
 
 | Date         | Time        | Content                                                                                                                                       |
 | ------------ | ----------- | -------- |
-| Mon, 9. Oct  | 10AM - 12PM | • Official start of the precourse <br> • Introduction to Computational Linguistics <br> • Overview of the university platforms <br> • Tour of the campus |
+| Mon, 9. Oct  | 10AM - 12PM | • Official start of the precourse <br> • Introduction to Computational Linguistics [slides (pdf)](https://fs-linguistics.github.io/files/precourse/PreCourse_What_is_Computational_Linguistics.pdf) <br> • Overview of the university platforms [slides (pdf)](https://fs-linguistics.github.io/files/precourse/PreCourse_Alma_Registration_LanguageCourses.pdf) <br> • Tour of the campus |
 | Tue, 10. Oct | 2PM - 4PM   | • Overview of the program structure <br> • Information about 1st semester courses <br> • How to sign up for courses<br> • Overview of language courses |
 | Wed, 11. Oct | 2PM - 4PM   | • Gentle introduction to programming <br> • Introduction to Git, command line, and debugging |
 | Thu, 12. Oct | 10AM - 12PM | • Setting-up programming tools - Java, Python, Visual Studio Code |
