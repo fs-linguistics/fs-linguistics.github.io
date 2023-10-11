@@ -13,7 +13,7 @@ Add the schedule to your calendar [here (ics)](webcal://fs-linguistics.github.io
 | ------------ | ----------- | -------- |
 | Mon, 9. Oct  | 10AM - 12PM | • Official start of the precourse <br> • Introduction to Computational Linguistics [slides (pdf)](https://fs-linguistics.github.io/files/precourse/PreCourse_What_is_Computational_Linguistics.pdf) <br> • Overview of the university platforms [slides (pdf)](https://fs-linguistics.github.io/files/precourse/PreCourse_Alma_Registration_LanguageCourses.pdf) <br> • Tour of the campus |
 | Tue, 10. Oct | 2PM - 4PM   | • Overview of the program structure & Information about 1st semester courses [slides (pdf)](https://fs-linguistics.github.io/files/precourse/Precourse_ProgramStructure.pdf) <br> • How to sign up for courses & Overview of language courses [slides (pdf)](https://fs-linguistics.github.io/files/precourse/PreCourse_Alma_Registration_LanguageCourses2.pdf) |
-| Wed, 11. Oct | 2PM - 4PM   | • Gentle introduction to programming <br> • Introduction to Git, command line, and debugging |
+| Wed, 11. Oct | 2PM - 4PM   | • Gentle introduction to programming [slides (pdf)](https://fs-linguistics.github.io/files/precourse/IntroToProgramming.pdf)<br> • Introduction to Git, command line, and debugging [slides (pdf)](https://fs-linguistics.github.io/files/precourse/JohnsRandomPrecourseStuff.pdf) |
 | Thu, 12. Oct | 10AM - 12PM | • Setting-up programming tools - Java, Python, Visual Studio Code |
 | Fri, 13. Oct | 10AM - 12PM | • Q&A session <br> • Living in Tübingen <br> • Optionally finish setting-up programming tools |
 
