@@ -1,6 +1,6 @@
 ---
-title: Protocol template
-permalink: /protocol-template/
+title: Protocol
+permalink: /protocol/
 ---
 
-[LaTeX template for meeting procols](/files/other/FS-protocol.zip)
+The protocols and other organisational matters now live in a [Github repo here](https://github.com/fs-linguistics/Fachschaft-Planning).
