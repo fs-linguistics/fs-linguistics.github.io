@@ -1,5 +1,5 @@
 ---
-title: Protocol
+title: Protocols
 permalink: /protocol/
 ---
 
