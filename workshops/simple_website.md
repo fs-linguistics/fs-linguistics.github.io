@@ -1,9 +1,15 @@
 # How to update the website
 
+# Oct 26, 2023
+
+
 
 Today we are going to update the website becaues I'm sick of being the only one that updates it so I'm making you guys help me. 
 
 I will try to make this as beginner friendly as possible. I also had the clever idea of having you guys help me modify this page as the first exercise, because I'm that lazy. 
+
+
+Also to make sure everyone is not overwhelmed, we will focus on updating this website, which I guess means that this is a really bad name for the workshop, because it wil mostly be more maintaining as opposed to making your own website. 
 
 
 
@@ -76,6 +82,10 @@ Github offers every account a free corresponding static website. This will be yo
 If you make your repo that name, it will automitaclly try to serve it to the website.
 
 To start out, you can copy all of our file on our website and modify it. Or you can also follow github's guide. 
+
+# Exercise
+
+To see what you learned, try contributing to this page. Either fix a typo, expand a section, or add an image. 
   
 
 # Important links
