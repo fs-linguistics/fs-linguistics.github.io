@@ -48,8 +48,8 @@ docs:
       - title: "Old pages"
         url: /old-pages/
   - title: "Resources"
-      children:
-        - title: "Online resources"
-          url: /resources/
-        - title: "Student Workshops"
-          url: /workshops/
+    children:
+      - title: "Online resources"
+        url: /resources/
+      - title: "Student Workshops"
+        url: /workshops/
