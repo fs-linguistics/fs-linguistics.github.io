@@ -32,7 +32,7 @@ Use thi smethod if you see that I can't spell correctly or have horrible grammar
 
 This involves using the search on github and finding the file. 
 
-### Click the edit file on the top right
+### Click the edit file on the top right, it looks like a pencil
 
 
 ### Do your changes
@@ -40,6 +40,10 @@ This involves using the search on github and finding the file.
 ### Commit your changes and try to give a useful description of what you did
 
 ### click pull request
+
+### give a summary of your pull request or leave it blank like bad person
+
+### click submit pull requeest
 
 ### wait for somone to merge it
 
@@ -52,7 +56,6 @@ This method is more educational for you because it wil teach you how to use the 
 ### Download github desktop 
 
 ### Use VS code or another text editor to edit the flie
-
 
 ### Use github desktop to commit
 
