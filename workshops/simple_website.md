@@ -26,7 +26,7 @@ I will try to make this as beginner friendly as possible. I also had the clever 
 
 ## How to do it the way you are not supposed to do it. 
 
-Use thi smethod if you see that I can't spell correctly or have horrible grammar or I said something you don't like and yo uwant to remove it and you can't be bothered to learn git. 
+Use this method if you see that I can't spell correctly or have horrible grammar or I said something you don't like and you want to remove it and you can't be bothered to learn git. 
 
 ### Find page you want to change on the git repo
 
