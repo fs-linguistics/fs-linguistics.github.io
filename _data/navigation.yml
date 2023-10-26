@@ -35,8 +35,6 @@ docs:
         url: /ba-thesis-template/
       - title: "Hiwi jobs"
         url: /hiwi/
-      - title: "Resources"
-        url: /resources/
   - title: For Fachschaft Members
     children:
       - title: "Updating the webpage"
@@ -49,3 +47,9 @@ docs:
         url: /protocol/
       - title: "Old pages"
         url: /old-pages/
+  - title: "Resources"
+      children:
+        - title: "Online resources"
+          url: /resources/
+        - title: "Student Workshops"
+          url: /workshops/
