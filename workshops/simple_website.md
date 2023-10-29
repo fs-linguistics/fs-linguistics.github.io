@@ -22,10 +22,10 @@ Also to make sure everyone is not overwhelmed, we will focus on updating this we
 
 - **Website** this is what happens when you go to th efull website. Note that this is different from the repo, which is the *code* which will build the website
 - **repo** where your code is, short for repository
-- **fork** with git, everyone makes a copy, your own copy is called a fork, if you change your copy it won't cahnge the website, I have to merg eit in
+- **fork** with git, everyone makes a copy, your own copy is called a fork, if you change your copy it won't cahnge the website, I have to merge it in
 - **file** this is the thing that you click on in a folder. Most of the files on the website is called markdown, and it ends in md.  
-- **markdown** markdown is a special tyep of file that is very similar to regular plain text, but you have some special syntax for bold, itaclic and links.
-- **Jekyll** normally, basic websites ar ebuild using technologies using html, css, and javascript. However, github offers this thing called Jekyll that allows you to write your website in mostly markdown. THat's why most of the *code* loooks like normal writing. 
+- **markdown** markdown is a special type of file that is very similar to regular plain text, but you have some special syntax for bold, italic and links.
+- **Jekyll** normally, basic websites are built using technologies using html, css, and javascript. However, github offers this thing called Jekyll that allows you to write your website in mostly markdown. THat's why most of the *code* looks like normal writing. 
 
 
 # Updating our particular website
