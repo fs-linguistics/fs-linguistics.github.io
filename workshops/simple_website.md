@@ -20,7 +20,7 @@ Also to make sure everyone is not overwhelmed, we will focus on updating this we
 
 ## Terminology
 
-- **Website** this is what happens when you go to th efull website. Note that this is different from the repo, which is the *code* which will build the website
+- **Website** this is what happens when you go to the full website. Note that this is different from the repo, which is the *code* which will build the website
 - **repo** where your code is, short for repository
 - **fork** with git, everyone makes a copy, your own copy is called a fork, if you change your copy it won't cahnge the website, I have to merge it in
 - **file** this is the thing that you click on in a folder. Most of the files on the website is called markdown, and it ends in md.  
