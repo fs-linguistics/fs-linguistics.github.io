@@ -1,5 +1,6 @@
 # Introduction to Proto-Indo-European Linguistics
 
+*November 1st 2023*
 
 Thank you to wikipedia, chatgpt, if you find errors in this, blame them. 
 
