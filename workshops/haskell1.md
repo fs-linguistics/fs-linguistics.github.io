@@ -18,7 +18,7 @@ But, that will not be a proble because we have the ghci.
 
 So type in your ghci
 
-```
+```haskell
   1 + 1 
 ```
 
@@ -41,8 +41,8 @@ sumOfTwo x y = x + y
 
 Now type in ghci
 
-```
-  sumOfTwo 5 9
+```haskell
+ sumOfTwo 5 9
 ```
 
 Or any two numbers you like
@@ -76,7 +76,7 @@ The answer is recursion.
 Well, I guesss we are starting with everyone's favorite recrusion thing.
 
 
-```
+```haskell
 fibonacci :: Int -> Int
 fibonacci 0 = 0
 fibonacci 1 = 1
@@ -86,7 +86,96 @@ fibonacci n = fibonacci (n-1) + fibonacci (n-2)
 
 wow that looks just like math. This is because the people that invented haskell were nerds, and wanted things to look verymath like. 
 This is our first example of pattern matching. Basically, you can sort of view it as a bunch of if statements. It first checks the base cases. 
-Then when it is unable to find a matching case, it will go into the last case, which binds the `n` variable to a 
+Then when it is unable to find a matching case, it will go into the last case, which binds the `n` variable to a variale, and then we go into the recursive case
+
+
+This is already enough to write some basic programs in haskell
+
+Exercise: write sum up to n (though I guess you could cheat and use the formuula) and product up to n. 
+
+Contrived example: define a function called `plusOne` that just adds one to your number. Can you make a function `myPlus` that adds two numbers using your `plusOne`? Now make `myTimes` using this `myPlus`. How about exponentation?
+
+# Working with lists
+
+Because we are smart or something, we are going to jump directly into lists, which are our version of arrays.
+
+Review: what is a linked list? You might remember it as a slower version of arrays that nobody uses. That's why Haskell only uses linked lists by default, screw you imperative normies.
+
+
+Anyway, the real reason is because linked lists can be define mathemetically using induction. 
+
+
+A linked list is either:
+
+
+- empty 
+- something in the first element, and a different list after that
+
+
+You can kind of view empty as a null pointer, however it's better not to think about pointers as they belong to the evil world of C++.
+
+
+For now, we will ignore polymorphism, and just do numbers
+
+The syntax is more or less how you expect. 
+
+
+```haskell
+  []
+```
+
+The empty list
+
+```haskell
+  [1, 2, 3]
+```
+
+
+Somestuff in it
+
+
+```haskell
+  [1, 2, 3] ++ [5, 6, 7]
+```
+
+This is concatenation
+
+
+Note the recursive method of definiton, this is because the array notation mentioned above is the note the "real" notation, its just synactic sugar that gets compileed to the recursive natation
+
+
+
+```haskell
+  1 : 2 : 3 : []
+```
+
+Type that into ghci
+
+Try figuring out where the parenthesis go (hint, it's right associative, if you can figure out what that means)
+
+
+```haskell
+lengthOfList :: [Int] -> Int
+lengthOfList [] = 0
+lengthOfList (_:xs) = 1 + lengthOfList xs 
+```
+
+
+Just like how we previously matched our base cases using the number 0 and 1, we want to match it with the structure of a list. 
+
+Note that since we have our recrusive structure, we can use "induction" by covering our two cases, either it being nothing, or a something plus another list. 
+
+
+also note that the underscore is a black hole of death, which means that it's a variable that we don't care about 
+
+Exercise: make function that sums up all the values of a list, then make something that multiplise all the values together
+
+
+Ok that's probably enough and I'll probably do the rest later
+
+
+
+
 
 
 
