@@ -28,8 +28,7 @@ Hooray, it should know how to do basic math
 Use ghci as an alteranitve to print statements until we learn about how to print
 
 
-You can also define your functions in there, but it might be easier to just open a separate file and type your definitions there
-
+You can also define your functions in there, but it might be easier to just open a separate file and type your definitions there, which is what we will now do
 
 # Our first function
 
@@ -38,9 +37,12 @@ sumOfTwo :: Int -> Int -> Int
 sumOfTwo x y = x + y 
 ```
 
+Save this to a file, like `myhaskellfile.hs` 
 
-Now type in ghci
 
+Now when you open ghci, do `ghci myhaskellfile.hs`
+
+and type in
 ```haskell
  sumOfTwo 5 9
 ```
@@ -172,6 +174,9 @@ Exercise: make function that sums up all the values of a list, then make somethi
 
 
 Ok that's probably enough and I'll probably do the rest later
+
+
+If you thought that this was a terrible tutorial, please send in a pull request fixing it or lower your standards. 
 
 
 
