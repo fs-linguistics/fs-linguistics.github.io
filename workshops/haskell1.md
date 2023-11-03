@@ -83,8 +83,7 @@ fibonacci :: Int -> Int
 fibonacci 0 = 0
 fibonacci 1 = 1
 fibonacci n = fibonacci (n-1) + fibonacci (n-2) 
-```
-
+``` 
 
 wow that looks just like math. This is because the people that invented haskell were nerds, and wanted things to look verymath like. 
 This is our first example of pattern matching. Basically, you can sort of view it as a bunch of if statements. It first checks the base cases. 
@@ -115,8 +114,7 @@ A linked list is either:
 
 
 You can kind of view empty as a null pointer, however it's better not to think about pointers as they belong to the evil world of C++.
-
-
+ 
 For now, we will ignore polymorphism, and just do numbers
 
 The syntax is more or less how you expect. 
@@ -141,8 +139,7 @@ Somestuff in it
 ```
 
 This is concatenation
-
-
+ 
 Note the recursive method of definiton, this is because the array notation mentioned above is the note the "real" notation, its just synactic sugar that gets compileed to the recursive natation
 
 
@@ -177,15 +174,41 @@ Exercise: make function that sums up all the values of a list, then make somethi
 
 Strings are just a list of characters. 
 
-Type into haskell 
+Type into ghci
 
-```
+```haskell
  ['s', 'u','g','m','a']
 ```
 
 And it will show you that it is just a string. (It's like java where single quotes are charactres and double quotes are strings)
 
 Exercise: Do the Java love-hate thing in haskell. 
+
+
+# Conditinoal
+
+For our last thing we are leaning about conditionals
+
+Like java/c++, whatever, conditinoals work with the two things booleanvalues, True, and False (they are capital)
+
+The syntax looks like this
+
+```haskell
+if condition then value_if_true else value_if_false 
+```
+
+``` haskell
+describeNumber :: Int -> String
+describeNumber n = 
+  if n > 0 
+  then "Positive" 
+  else if n == 0 
+       then "Zero" 
+       else "Negative"   
+```
+
+
+Exercise: something interesting about if is that the if statement is actually not needed. Make your own version of the if statement as a function. 
 
 Challenge: make a generic replace method where you don't replace hate with love, but any arbitrary phrase. 
 
