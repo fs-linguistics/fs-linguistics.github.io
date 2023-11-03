@@ -11,7 +11,7 @@ When a new professor is hired at the institute, the hiring committee (Berufungsk
 
 How does the hiring process work?
 
-They send an email and do stuff. 
+They send an email and do important stuff.
 
 What do the student representatives do?
 
