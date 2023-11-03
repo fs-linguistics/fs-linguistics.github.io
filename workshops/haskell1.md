@@ -173,16 +173,25 @@ also note that the underscore is a black hole of death, which means that it's a 
 Exercise: make function that sums up all the values of a list, then make something that multiplise all the values together
 
 
+# Strings
+
+Strings are just a list of characters. 
+
+Type into haskell 
+
+```
+ ['s', 'u','g','m','a']
+```
+
+And it will show you that it is just a string. (It's like java where single quotes are charactres and double quotes are strings)
+
+Exercise: Do the Java love-hate thing in haskell. 
+
+Challenge: make a generic replace method where you don't replace hate with love, but any arbitrary phrase. 
+
 Ok that's probably enough and I'll probably do the rest later
 
 
 If you thought that this was a terrible tutorial, please send in a pull request fixing it or lower your standards. 
 
-
-
-
-
-
-
-
-
+       
