@@ -94,7 +94,7 @@ This is already enough to write some basic programs in haskell
 
 Exercise: write sum up to n (though I guess you could cheat and use the formuula) and product up to n. 
 
-Contrived example: define a function called `plusOne` that just adds one to your number. Can you make a function `myPlus` that adds two numbers using your `plusOne`? Now make `myTimes` using this `myPlus`. How about exponentation?
+**Harder Question**: define a function called `plusOne` that just adds one to your number (you can use `+` and ou don't need recurseion)). Can you make a function `myPlus` that adds two numbers using your `plusOne` (you need a minus for recursion) Now make `myTimes` using this `myPlus`. How about exponentation?
 
 # Working with lists
 
@@ -151,14 +151,12 @@ Note the recursive method of definiton, this is because the array notation menti
 Type that into ghci
 
 Try figuring out where the parenthesis go (hint, it's right associative, if you can figure out what that means)
-
-
+ 
 ```haskell
 lengthOfList :: [Int] -> Int
 lengthOfList [] = 0
 lengthOfList (_:xs) = 1 + lengthOfList xs 
-```
-
+``` 
 
 Just like how we previously matched our base cases using the number 0 and 1, we want to match it with the structure of a list. 
 
@@ -168,6 +166,14 @@ Note that since we have our recrusive structure, we can use "induction" by cover
 also note that the underscore is a black hole of death, which means that it's a variable that we don't care about 
 
 Exercise: make function that sums up all the values of a list, then make something that multiplise all the values together
+
+
+**Exercise:** make a function `drop` that takes an an int `n` and a list that removes the firt `n` elements of the list and returns the rest. 
+
+**Exercise:** make a function `take` that takes an an int `n` and a list that returns the first `n` elements of the list. 
+
+
+
 
 
 # Strings
@@ -184,6 +190,16 @@ And it will show you that it is just a string. (It's like java where single quot
 
 Exercise: Do the Java love-hate thing in haskell. 
 
+
+Hint:  You can match recursively
+
+```haskell
+  important :: String -> String
+  important ('j' :'o' :'h' :'n') = "You are cool."
+  important other = "I hate you"
+```
+
+What does this do?
 
 # Conditinoal
 
@@ -210,11 +226,13 @@ describeNumber n =
 
 Exercise: something interesting about if is that the if statement is actually not needed. Make your own version of the if statement as a function. 
 
+
 Challenge: make a generic replace method where you don't replace hate with love, but any arbitrary phrase. 
+
+**Hint**: use the `take` and `drop` method that I told you to implement earlier. 
 
 Ok that's probably enough and I'll probably do the rest later
 
 
 If you thought that this was a terrible tutorial, please send in a pull request fixing it or lower your standards. 
-
-       
+  
