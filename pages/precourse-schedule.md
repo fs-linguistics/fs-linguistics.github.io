@@ -1,9 +1,7 @@
 ---
-title: Precourse schedule (WS 23/24)
+title: 📅 Precourse schedule (WS 23/24)
 permalink: /precourse-schedule/
 ---
-
-# 📅 Schedule
 
 Add the schedule to your calendar [here (ics)](webcal://fs-linguistics.github.io/files/Precourse.ics)!
 

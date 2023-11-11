@@ -1,4 +1,11 @@
-# Introduction to Proto-Indo-European Linguistics
+---
+layout: single
+date: 2023-11-01
+title: "Introduction to Proto-Indo-European Linguistics"
+category: workshop
+---
+
+{{ title }}
 
 *November 1st 2023*
 

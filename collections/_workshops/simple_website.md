@@ -2,6 +2,7 @@
 layout: single
 date: 2023-10-26
 title: "How to Update the Website"
+category: workshop
 ---
 
 {{ title }}
