@@ -16,7 +16,7 @@ Overview of this page:
 
 ## Adding Blog Posts
 
-### Quick and Dirty method 
+### Quick and Dirty method
 
 ```
 cd _posts
@@ -65,9 +65,44 @@ permalink: /URL-SUFFIX-HERE/
 
 This can be done without installing Ruby and Jekyll, although it's a good idea to try out changes locally first.
 
+We have implemented some controls to avoid breaking changes. Instead of pushing your changes to shared repo, you now have to create a pull request containing your changes. Depending on how comfortable you feel with the GitHub website
+
 1. Push the changes to the shared repo.
 2. GitHub will try to rebuild the page including your changes. In the [commits tab](https://github.com/fs-linguistics/fs-linguistics.github.io/commits/master) of this repo, a green checkmark should appear as part of your commit. This can take a couple of minutes.
 3. Check the website (hard refresh, if necessary). It sometimes also takes a few minutes between GitHub adding the green checkmark to your commit and the website actually displaying the changes.
+
+
+## Pull Requests (GitHub)
+
+1. Check out a new branch, make and commit your changes.
+```
+git checkout -b fix-typos
+git add .
+git commit -m "Fix typos on all pages of the website"
+```
+2. Push your new branch.
+```
+git push
+```
+3. Create a new pull request on [Github](https://github.com/fs-linguistics/fs-linguistics.github.io/issues), give it an informative title (e.g. "Fix typos on the website").
+4. Associate your pull request with the branch you created.
+5. Wait for someone (i.e. John or Nicolai) to take a look at your pull request and merge or comment on it.
+
+## Pull Requests (Github CLI)
+
+1. Check out a new branch, make and commit your changes.
+```
+git checkout -b fix-typos
+git add .
+git commit -m "Fix typos on all pages of the website"
+```
+2. Create a pull request using gh.
+```
+gh pr create -t "Fix typos on the website" -a "@me"
+```
+3. Answer the questions.
+4. Check the pull request looks correct on the website.
+5. Wait for someone (i.e. John or Nicolai) to take a look at your pull request and merge or comment on it.
 
 ## Security Alerts
 
