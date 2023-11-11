@@ -10,4 +10,4 @@ permalink: /old-pages/
 - [Winter 2020/21 course/teaching information](/courses-wise2021/)
 - [Summer 2020 course/teaching information](/courses-sose2020/)
 - [Winter 2019/20 activities](/calendar-ws1920/)
-- [Protocol Template](/protocol-template)
+- [Protocol Template](/protocol)
