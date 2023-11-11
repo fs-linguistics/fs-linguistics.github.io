@@ -33,3 +33,9 @@ Temporary Items
 
 node_modules
 .vscode
+
+# Ignore LaTex Workshop
+/files/thesis/tex/main.aux
+/files/thesis/text/main.fdb_latexmk
+/files/thesis/text/main.fls
+/files/thesis/tex/main.log
