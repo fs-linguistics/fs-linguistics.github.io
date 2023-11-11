@@ -4,10 +4,12 @@ permalink: /courses-wise2021/
 ---
 
 ## ISCL
+
 You can find the course list, a question forum and links to the digital semester opening meetings on the Moodle page ["Introductory Meeting WS 2020/2021"](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=1194).
 Note that the list of ISCL MA Hauptseminar courses was updated!
 
 ## General Linguistics
+
 You can find the course list and question forums on the Moodle page ["Einführungsveranstaltung Allgemeine Sprachwissenschaft"](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=1259).
 
 ## Language courses (ISCL BA Interdisciplinary Skills)
@@ -26,6 +28,7 @@ Technically, you can take them at any point during your studies.
 If you already have some programming skills, you might enjoy taking a language class during your first semester. Otherwise, we recommend focusing on the Java class and getting used to university life first and then taking language classes a little later.
 
 ### Which language courses can I take?
+
 - [German classes](https://uni-tuebingen.de/en/international/learning-languages/learn-german/) offered by the language centre (unfortunately, there are often more international students than course slots, so be quick when signing up).
 - [Other language courses](https://uni-tuebingen.de/en/international/learning-languages/foreign-language-center/) offered by the language centre (if you want to take a beginner's class, you generally need to very quick when the sign-up period starts).
 - Sometimes, the [Studium Professionale](https://uni-tuebingen.de/en/studium/studienangebot/schluesselqualifikationen-das-studium-professionale/) offers German Sign Language seminars (you need to be very quick and lucky when signing up for these).
@@ -33,6 +36,7 @@ If you already have some programming skills, you might enjoy taking a language c
 - We don't know if any of the language courses offered by the 'ancient languages & cultures'-type programmes can be used for the ISCL-BA-02 module (if *you* know about this, please share that with us!). Those deparments' classes might nevertheless be interesting to some of you: Egyption studies, Ancient Near Eastern philology, Greek philology, Latin philology. (Some of the departments in the previous group offer courses in ancient/historical languages as well.)
 
 ### Do I need to know German to take those other language courses?
+
 - If it's an advanced language course, you will probably be fine if you only know a little German.
 - If it's a class for beginners, you should know some basic German. Many instructors try to use as little German as possible however.
 

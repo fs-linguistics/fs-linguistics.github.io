@@ -6,6 +6,7 @@ permalink: /updating-the-webpage/
 To add/edit blog posts or information pages, you don't need to set up Ruby/Jekyll. You only need to add and/or edit some files, which you can even do on the GitHub code repository itself (no actual git knowledge needed!)
 
 Overview of this page:
+
 - [Adding a blog post](#adding-blog-posts)
 - [Adding a (non-blog) page](#adding-pages)
 - [Previewing changes locally](#installing-rubyjekyll-and-previewing-the-page-locally)
@@ -16,19 +17,14 @@ Overview of this page:
 
 ## Adding Blog Posts
 
-### Quick and Dirty method 
+### Quick and Dirty method
 
-```
-cd _posts
-python3 make_post.py "Name Of Post"
-```
+1. Go to the [posts folder in the repo](https://github.com/fs-linguistics/fs-linguistics.github.io/tree/master/_posts) and click on add file and either upload your post as a Markdown file or create a new file.
+2. Accept GitHub's suggestion to create a new pull request by clicking 'propose changes'
+3. Wait for someone to take a look at your pull request and accept or comment on it.
 
-### Manual method
+As for the file, add the following header:
 
-Adding posts that appear on the blog section on the main page:
-
-1. Create a new file in the `_posts` directory. The file needs to follow the naming convention `YYYY-MM-DD-some-description-here.markdown`.
-2. The file should start with a special header. You can copy and adapt this header, or just copy, rename and update one of the already existing blog posts. (Jekyll will complain about the `post` layout, but for now giving it a dummy value instead of an actual layout gives the best result.)
 ```
 ---
 layout: post
@@ -36,23 +32,52 @@ title: "POST TITLE HERE!"
 date: YYYY-MM-DD
 ---
 ```
-3. It's also possible to add another line to the header, `categories`, e.g. `categories: events` or `categories: announcements`. Once/if we have a lot of posts, this might be interesting for filtering the posts, but for now, it's not really important.
-4. The rest of the post is the actual content, written in a flavour of Markdown called [Kramdown](https://kramdown.gettalong.org/quickref.html).
-5. You can add images or other files if you put them in a subfolder of `files`.
+
+Save the file as `YYYY-MM-DD-helpful-title.md`.
+
+### Less Quick, but still speedy
+
+1. Create a new file in the `_posts` directory using the python script:
+```
+cd _posts
+python3 make_post.py "Name Of Post"
+```
+2. Create a new branch and pull request following the guide for [updating changes globally](#updating-changes-globally).
+
+### Manual method
+
+Adding posts that appear on the blog section on the main page:
+
+1. Create a new branch for your update (see [updating changes globally](#updating-changes-globally))
+2. Create a new file in the `_posts` directory. The file needs to follow the naming convention `YYYY-MM-DD-some-description-here.markdown`.
+3. The file should start with a special header. You can copy and adapt this header, or just copy, rename and update one of the already existing blog posts. (Jekyll will complain about the `post` layout, but for now giving it a dummy value instead of an actual layout gives the best result.)
+```
+---
+layout: post
+title: "POST TITLE HERE!"
+date: YYYY-MM-DD
+---
+```
+4. It's also possible to add another line to the header, `categories`, e.g. `categories: events` or `categories: announcements`. Once/if we have a lot of posts, this might be interesting for filtering the posts, but for now, it's not really important.
+5. The rest of the post is the actual content, written in a flavour of Markdown called [Kramdown](https://kramdown.gettalong.org/quickref.html).
+6. You can add images or other files if you put them in a subfolder of `files`.
+7. Create a new pull request and wait for feedback.
 
 ## Adding Pages
 
-1. Create a new markdown file in the `pages` folder.
-2. Add a header following this format to your file:
+1. Create a new branch for your new page (see [updating changes globally](#updating-changes-globally)).
+2. Create a new markdown file in the `pages` folder.
+3. Add a header following this format to your file:
 ```
 ---
 title: PAGE TITLE HERE
 permalink: /URL-SUFFIX-HERE/
 ---
 ```
-3. The rest of the page is the actual content, written in a flavour of Markdown called [Kramdown](https://kramdown.gettalong.org/quickref.html).
-4. To create a link to the page to the sidebar, you need to add it to `_data/navigation.yml`. For intra-website links, only the permalink is necessary, not the full URL.
-5. You can add images or other files if you put them in a subfolder of `files`.
+4. The rest of the page is the actual content, written in a flavour of Markdown called [Kramdown](https://kramdown.gettalong.org/quickref.html).
+5. To create a link to the page to the sidebar, you need to add it to `_data/navigation.yml`. For intra-website links, only the permalink is necessary, not the full URL.
+6. You can add images or other files if you put them in a subfolder of `files`.
+7. Create a new pull request and wait for feedback.
 
 ## Installing Ruby/Jekyll and Previewing the Page Locally
 
@@ -65,9 +90,39 @@ permalink: /URL-SUFFIX-HERE/
 
 This can be done without installing Ruby and Jekyll, although it's a good idea to try out changes locally first.
 
-1. Push the changes to the shared repo.
-2. GitHub will try to rebuild the page including your changes. In the [commits tab](https://github.com/fs-linguistics/fs-linguistics.github.io/commits/master) of this repo, a green checkmark should appear as part of your commit. This can take a couple of minutes.
-3. Check the website (hard refresh, if necessary). It sometimes also takes a few minutes between GitHub adding the green checkmark to your commit and the website actually displaying the changes.
+We have implemented some controls to avoid breaking changes. Instead of pushing your changes to the shared repo, you now have to create a pull request containing your changes. Depending on how comfortable you feel with the GitHub website and/or CLI, there's two approaches: creating the pull request on the website or on the command line using the GitHub CLI.
+
+### Pull Requests (GitHub)
+
+1. Check out a new branch, make and commit your changes.
+```
+git checkout -b fix-typos
+git add .
+git commit -m "Fix typos on all pages of the website"
+```
+2. Push your new branch.
+```
+git push
+```
+3. Create a new pull request on [Github](https://github.com/fs-linguistics/fs-linguistics.github.io/issues), give it an informative title (e.g. "Fix typos on the website").
+4. Associate your pull request with the branch you created.
+5. Wait for someone (i.e. John or Nicolai) to take a look at your pull request and merge or comment on it.
+
+### Pull Requests (Github CLI)
+
+1. Check out a new branch, make and commit your changes.
+```
+git checkout -b fix-typos
+git add .
+git commit -m "Fix typos on all pages of the website"
+```
+2. Create a pull request using gh.
+```
+gh pr create -t "Fix typos on the website"
+```
+3. Answer the questions.
+4. Check the pull request looks correct on the website.
+5. Wait for someone (i.e. John or Nicolai) to take a look at your pull request and merge or comment on it.
 
 ## Security Alerts
 
