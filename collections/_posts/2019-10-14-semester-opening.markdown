@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Semester Opening WS 2019/20"
 categories: events
 ---

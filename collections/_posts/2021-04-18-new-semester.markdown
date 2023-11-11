@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Beginning of the semester"
 date: 2021-04-18
 ---

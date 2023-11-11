@@ -1,4 +1,9 @@
-# How to update the website
+---
+layout: single
+title: "How to Update the Website"
+---
+
+{{ title }}
 
 # Oct 26, 2023
 

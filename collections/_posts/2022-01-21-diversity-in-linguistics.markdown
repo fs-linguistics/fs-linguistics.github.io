@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Statistics for linguistics workshop"
 date: 2022-01-21
 ---

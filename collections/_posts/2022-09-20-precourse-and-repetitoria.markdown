@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Pre-course & repetitoria"
 date: 2022-09-20
 ---

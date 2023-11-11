@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Pub crawl sign-up"
 date: 2021-10-25
 ---

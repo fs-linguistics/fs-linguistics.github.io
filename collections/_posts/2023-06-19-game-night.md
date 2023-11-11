@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Game Night
 date: 2023-06-19
 ---

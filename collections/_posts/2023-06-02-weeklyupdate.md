@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: single
 title: "Weekly Update"
 date: 2023-06-02
 ---
 
-Hello everyone. 
+Hello everyone.
 
 Welcome to the weekly update.
 

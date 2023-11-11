@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Pre-course registration link"
 date: 2022-10-01
 ---

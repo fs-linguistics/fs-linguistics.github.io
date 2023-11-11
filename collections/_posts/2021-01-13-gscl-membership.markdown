@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "GSCL student membership"
 date: 2021-01-13
 ---

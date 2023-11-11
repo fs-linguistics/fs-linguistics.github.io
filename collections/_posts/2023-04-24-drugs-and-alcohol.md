@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Alcohol"
 date: 2023-04-24
 ---

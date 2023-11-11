@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Buddy Programme"
 date: 2020-11-04
 ---

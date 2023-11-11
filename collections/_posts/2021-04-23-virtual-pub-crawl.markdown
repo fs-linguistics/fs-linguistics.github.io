@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Virtual pub crawl tonight"
 date: 2021-04-23
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Special time for next meeting
 date: 2023-10-25
 ---

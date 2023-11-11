@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "General Tutorials"
 date: 2023-05-25
 ---

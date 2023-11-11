@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Weekly Update
 date: 2023-07-14
 ---

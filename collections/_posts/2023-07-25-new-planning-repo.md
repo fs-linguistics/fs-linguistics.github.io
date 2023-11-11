@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: New Planning Repo
 date: 2023-07-25
 ---

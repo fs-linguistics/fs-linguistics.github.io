@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Survey for FS meetings and workshops
 date: 2023-10-18
 ---

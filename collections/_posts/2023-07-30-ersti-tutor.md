@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Ersti Tutor
 date: 2023-07-30
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Chomsky or Chimpsky? The results are in!
 categories: 
 ---
