@@ -253,6 +253,7 @@ GEM
     unf_ext (0.0.7.7)
     unf_ext (0.0.7.7-x64-mingw32)
     unicode-display_width (1.7.0)
+    webrick (1.8.1)
     zeitwerk (2.6.11)
 
 PLATFORMS
@@ -272,6 +273,7 @@ DEPENDENCIES
   nokogiri (>= 1.13.5)
   rouge (>= 3.26.0)
   tzinfo-data
+  webrick (~> 1.8)
 
 BUNDLED WITH
-   2.2.15
+   2.4.20
