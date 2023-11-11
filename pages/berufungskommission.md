@@ -16,5 +16,3 @@ They send an email and do important stuff.
 What do the student representatives do?
 
 How can they influence the outcome?
-
-
