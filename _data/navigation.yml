@@ -41,8 +41,8 @@ docs:
     children:
       - title: "Updating the webpage"
         url: /updating-the-webpage/
-      - title: "Berufungskommission"
-        url: /berufungskommission/
+      - title: "Institusbeiratssitzung"
+        url: /ibr/
       - title: "Minutes / Protocol"
         url: /minutes/
       - title: "Email account updates"
