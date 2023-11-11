@@ -165,16 +165,39 @@ Note that since we have our recrusive structure, we can use "induction" by cover
 
 also note that the underscore is a black hole of death, which means that it's a variable that we don't care about 
 
+
+# Thinking about recursion
+
+Sometimes, if you don't know how to write a recursive function, you should write a bunch of base cases. 
+
+For example, let's make a function that adds 1 to everything. 
+
+The first base case is easy
+
+
+```haskell
+add1 :: [Int] -> [Int]
+lengthOfList [] = []
+``` 
+
+
+Ok, now what happens if I dis
+
+
 Exercise: make function that sums up all the values of a list, then make something that multiplise all the values together
 
 
 **Exercise:** make a function `drop` that takes an an int `n` and a list that removes the firt `n` elements of the list and returns the rest. 
 
 **Exercise:** make a function `take` that takes an an int `n` and a list that returns the first `n` elements of the list. 
+    
 
-
-
-
+```haskell
+lengthOfList :: [Int] -> Int
+lengthOfList [] = 0
+lengthOfList (_:xs) = 1 + lengthOfList xs 
+``` 
+  
 
 # Strings
 
