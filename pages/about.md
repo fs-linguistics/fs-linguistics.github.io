@@ -1,9 +1,10 @@
 ---
 title: About
 permalink: /about/
+category: page
 ---
 
-The Fachschaft\* Sprachwissenschaft is an association of students, open to all who study at the [Seminar für Sprachwissenschaft (SfS)][sfs] at the [University of Tübingen][uni-tue], whether general or computational linguistics, or both. Our objectives are
+The Fachschaft\* Sprachwissenschaft is an association of students, open to all who study at the [Seminar für Sprachwissenschaft (SfS)](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/) at the [University of Tübingen](https://uni-tuebingen.de/), whether general or computational linguistics, or both. Our objectives are
 
 - to help each other--especially new students--by sharing our experiences,
 - to organize events for getting to know each other, and
@@ -13,14 +14,8 @@ If you're interested in joining us, please come to one of the regulars' tables, 
 
 ## Meeting times
 
-Our meetings are currently every Friday at 5:00 PM at 049 Keplerstraße 2. If you go there and nobody's there, then someone needs to update this info. 
+Our meetings are currently every Friday at 5:00 PM at 049 Keplerstraße 2. If you go there and nobody's there, then someone needs to update this info.
 
 ---
 
 \*Technically, the term *Fachschaft* refers to the entire SfS student body, but colloquially it is almost always used synonymously with *Fachschaftsrat* to refer to the group of student representatives. This is also how we generally use the term.
-
-
-
-
-[sfs]: https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/
-[uni-tue]: https://uni-tuebingen.de/
