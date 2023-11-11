@@ -12,5 +12,3 @@ Fill out the update form with the new admin's contact information.
 Ask the SfS secretary or a professor (or someone from the faculty's dean's office (*Dekanat*)) to fill out the Deckblatt.
 
 Email the Deckblatt and the form to the ZDV.
-
-To enable auto-forwarding of Fachschaft emails to the inbox for your main email address, log into the [webmail interface](https://webmail.uni-tuebingen.de/) with the FS log-in and go to Mail > Filters > Forward and enter your main email address (make sure to keep "Keep a copy of messages in this account?" checked).

@@ -35,6 +35,8 @@ docs:
         url: /ba-thesis-template/
       - title: "Hiwi jobs"
         url: /hiwi/
+      - title: "Precourse Sildes"
+        url: /precourseslides-ws2324/
   - title: For Fachschaft Members
     children:
       - title: "Updating the webpage"
@@ -43,8 +45,6 @@ docs:
         url: /berufungskommission/
       - title: "Email account updates"
         url: /email/
-      - title: "Protocols"
-        url: /protocol/
       - title: "Old pages"
         url: /old-pages/
   - title: "Resources"
