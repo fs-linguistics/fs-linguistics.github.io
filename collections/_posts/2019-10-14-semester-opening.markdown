@@ -24,9 +24,8 @@ We're looking forward to getting to know you / seeing you again!
 
 - Wednesday, **Oct 23**, 7-10PM, Wilhelmstr. 19 room 0.02, **Board Game Night**  
   No matter whether you are more into the strategic Settlers game or into the creative Pictionary or Cards against Humanity, you'll find a group that will join you. You have a cool game at home you want to play? Bring it - Let's have fun together!
-  We'll also have some drinks and snacks, but are welcome to bring more. So let the games begin...   
+  We'll also have some drinks and snacks, but are welcome to bring more. So let the games begin...
   → [Facebook event][fb-gamenight]
-
 
 {: style="text-align: center;"}
 <img src="/files/events/semester-opening-ws2019.png" alt="Flyer" width="450"/>

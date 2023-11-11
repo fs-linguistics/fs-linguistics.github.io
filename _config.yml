@@ -23,6 +23,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: fs-linguistics
 facebook_username: fssprachwissenschaft
 
+# Define collections
+collections:
+  events:
+    output: true
+  workshop:
+    output: true
+
 # Build settings
 markdown: kramdown
 # theme: minima
@@ -101,6 +108,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _workshops
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
