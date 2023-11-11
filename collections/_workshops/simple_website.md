@@ -5,8 +5,6 @@ title: "How to Update the Website"
 category: workshop
 ---
 
-{{ title }}
-
 # Oct 26, 2023
 
 Today we are going to update the website becaues I'm sick of being the only one that updates it so I'm making you guys help me.
@@ -88,7 +86,7 @@ To see what you learned, try contributing to this page. Either fix a typo, expan
 # Important links
 
 - [Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-- [](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+- [GitHub Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 - [GitHub Dekstop](https://desktop.github.com/)
 - [GitHub Pages Setup and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 - [Github Pages](https://pages.github.com/)
