@@ -170,7 +170,7 @@ also note that the underscore is a black hole of death, which means that it's a 
 
 Sometimes, if you don't know how to write a recursive function, you should write a bunch of base cases. 
 
-For example, let's make a function that adds 1 to everything. 
+For example, let's make a function that adds 1 to everything in the list
 
 The first base case is easy
 
@@ -181,7 +181,38 @@ lengthOfList [] = []
 ``` 
 
 
-Ok, now what happens if I dis
+Ok, now the next case is the recursive case. But what if recursion is hard and I can't think of the solution?
+One techinque is to just write a bunch of base cases until the answer comes to you 
+
+```haskell
+add1 :: [Int] -> [Int]
+add1 [] = []
+add1 (x1:[]) = (x + 1) : [] -- aka [x + 1]
+add1 (x2:x1:[]) = (x2 + 1) : (x1 + 1) : [] -- aka [x2 + 1, x1 + 1]
+add1 (x3:x2:x1:[]) = (x3 + 1) : (x2 + 1) : (x1 + 1) :  [] -- aka [x1 + 1, x2 + 1]
+``` 
+
+wow wow, you realize there is some part that uses an older part. Maybe that could be part of the recursion. 
+
+
+```haskell
+add1 :: [Int] -> [Int]
+add1 [] = []
+add1 (x1:[]) = (x1 + 1) : add1 [] -- aka [x1 + 1]
+add1 (x2:x1:[]) = (x2 + 1) : add1 (x1 : []) -- aka [x2 + 1, x1 + 1]
+add1 (x3:x2:x1:[]) = (x3 + 1) : add1 (x2 : x1 : []) -- aka [x3 + 1, x2 + 1, x1 + 1]
+``` 
+
+Ok, now we see that we have terms that match on both sides. This means everytime we copy and past something on the left onto the right in each case. For example, in the line right after the base case, we take x1, and copy it to the right before the `+ 1`. Then in the next line, we take `x2` and copy it to basically the same position right before the `+ 1` and then we do it with `x3` with basically the same thing, it's before the `+ 1`.  Then we notice the other *term* is done the same, `[]` is copied right after the `add1` on te first line, then we have `x1:[]` which gets copy and pasted right after `add1` onto, and then we finally have `x2:x1:[]` which gets copy and pasted right after the `add1`. 
+
+That means we can replace them with variables!
+
+
+```haskell
+add1 :: [Int] -> [Int]
+add1 [] = []
+add1 (x:rest) = (x + 1) : add1 rest 
+``` 
 
 
 Exercise: make function that sums up all the values of a list, then make something that multiplise all the values together
