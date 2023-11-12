@@ -17,7 +17,7 @@ def create_markdown_file(title):
     filename = f"{formatted_date}-{format_title}.md"
 
     # Add the front matter content
-    front_matter = f"---\nlayout: post\ntitle: {title}\ndate: {formatted_date}\n---\n"
+    front_matter = f"---\nlayout: single\ntitle: {title}\ndate: {formatted_date}\n---\n"
 
     # Create the file and write the front matter
     with open(filename, "w") as file:

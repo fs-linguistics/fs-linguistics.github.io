@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Fachschaft room decorated
 date: 2023-06-17
 ---

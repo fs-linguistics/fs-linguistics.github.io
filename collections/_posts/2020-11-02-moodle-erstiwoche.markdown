@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Moodle and Erstiwoche"
 date: 2020-11-02
 ---

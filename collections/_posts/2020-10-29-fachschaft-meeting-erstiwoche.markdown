@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Fachschaft meeting: Plans for the start of the semester"
 date: 2020-10-29
 ---

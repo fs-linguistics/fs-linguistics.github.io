@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Game Night: NEW TIME"
 categories: events
 ---

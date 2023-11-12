@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Haskell Workshop
 date: 2023-11-08
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Game night"
 date: 2020-11-27
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Fachschaft meeting"
 date: 2020-11-19
 ---

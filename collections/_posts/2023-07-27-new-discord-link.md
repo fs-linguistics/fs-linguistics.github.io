@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: New Discord Link
 date: 2023-07-27
 ---

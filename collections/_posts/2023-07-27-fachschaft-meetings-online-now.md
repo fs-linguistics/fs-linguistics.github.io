@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Fachschaft Meetings online now
 date: 2023-07-27
 ---

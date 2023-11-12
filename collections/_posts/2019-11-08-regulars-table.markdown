@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Regulars' Table on Monday"
 categories: events
 ---

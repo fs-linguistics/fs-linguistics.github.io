@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Website updates"
 date: 2020-10-15
 ---

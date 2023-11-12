@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "End-of-Semester Regulars' Table"
 date:   2020-01-23 18:30:00 +0100
 ---

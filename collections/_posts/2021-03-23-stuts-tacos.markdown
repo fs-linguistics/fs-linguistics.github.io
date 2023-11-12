@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "StuTS/TaCoS 2021"
 date: 2021-03-23
 ---

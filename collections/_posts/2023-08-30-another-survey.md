@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Another survey
 date: 2023-08-30
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Start of Summer Semester 23"
 date: 2023-04-22
 ---

@@ -36,6 +36,6 @@ node_modules
 
 # Ignore LaTex Workshop
 files/thesis/tex/main.aux
-files/thesis/text/main.fdb_latexmk
-files/thesis/text/main.fls
+files/thesis/tex/main.fdb_latexmk
+files/thesis/tex/main.fls
 files/thesis/tex/main.log

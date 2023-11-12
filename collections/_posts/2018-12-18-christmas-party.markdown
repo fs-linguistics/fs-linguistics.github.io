@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Christmas Party"
 date:   2018-12-18 16:28:11 +0100
 categories: events

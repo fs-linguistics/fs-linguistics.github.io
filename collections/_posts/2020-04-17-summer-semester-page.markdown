@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Summer semester 2020 (again)"
 date: 2020-04-17
 ---

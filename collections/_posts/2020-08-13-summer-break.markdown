@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "FS Meeting: Preparing activities for the winter semester"
 date: 2020-08-13
 ---

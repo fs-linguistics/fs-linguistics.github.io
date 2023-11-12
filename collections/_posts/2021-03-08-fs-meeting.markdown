@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "FS meeting"
 date: 2021-03-08
 ---

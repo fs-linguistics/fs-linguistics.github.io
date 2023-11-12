@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Precourse survey
 date: 2023-10-16
 ---

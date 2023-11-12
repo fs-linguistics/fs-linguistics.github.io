@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Office Hour"
 date: 2020-11-10
 ---

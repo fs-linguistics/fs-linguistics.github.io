@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "FS meeting & office hours"
 date: 2021-01-11
 ---

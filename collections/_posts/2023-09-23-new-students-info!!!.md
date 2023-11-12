@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: New Students Info!!!
 date: 2023-09-23
 ---

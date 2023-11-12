@@ -3,8 +3,6 @@ title: "Minutes"
 permalink: /minutes/
 ---
 
-# How to Take Minutes
-
 Our minutes live in [this repo](https://github.com/fs-linguistics/Fachschaft-Planning) and are done in Markdown.
 
 The template we use for notes can be found there as well.

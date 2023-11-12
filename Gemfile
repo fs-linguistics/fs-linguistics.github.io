@@ -42,4 +42,5 @@ gem "kramdown", ">= 2.3.1"
 gem "nokogiri", ">= 1.13.5"
 gem "rouge", ">= 3.26.0"
 
+# To enable local preview
 gem "webrick", "~> 1.8"

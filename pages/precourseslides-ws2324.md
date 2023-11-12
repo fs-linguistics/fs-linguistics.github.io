@@ -3,8 +3,6 @@ title: Precourse Slides WS 23/24
 permalink: /precourseslides-ws2324/
 ---
 
-# Precourse Slides WS 23/24
-
 Here you can find the slides from this semester's (WS 23/24) precourse
 
 ## Slides

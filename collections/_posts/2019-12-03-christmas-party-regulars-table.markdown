@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "❄ Regulars' Table & Christmas Party ❄"
 date:   2019-12-03 12:30:11 +0100
 categories: events

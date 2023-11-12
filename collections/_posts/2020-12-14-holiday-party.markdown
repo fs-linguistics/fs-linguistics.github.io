@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Holiday party"
 date: 2020-12-14
 ---
