@@ -12,6 +12,6 @@
       <a href="{{ post.url | relative_url }}">{{ title }}</a>
     </h2>
     <div class="archive__item-date">{{ post.date | date: "%-d %B %Y" }}</div>
-    <p>{{ post }}</p>
+    <p> {{ post.excerpt }}</p>
   </article>
 </div>
