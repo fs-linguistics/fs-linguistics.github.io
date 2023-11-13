@@ -8,4 +8,4 @@ We are currently offering workshops every week led by students where we talk abo
 
 Workshops we've offered:
 
-- [Updating the site](/collections/_workshops/simple_website)
+- [Updating the site](/collections/_workshops/2023-10-26-simple-website)
