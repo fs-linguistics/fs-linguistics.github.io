@@ -47,15 +47,15 @@ All of these are in German. Please let us know if any of these links are broken.
 
 If you look for Hiwi information online, make sure that you're getting Bundesland-specific information (e.g. on the salary) from websites of universities in Baden-Württemberg.
 
-* Personalrat Uni Heidelberg (BaWü): [Wissenschaftliche und studentische Hilfskräfte](https://www.uni-heidelberg.de/einrichtungen/organe/personalrat/Hiwi.html) Salary information and links to relevant laws regarding vacation and regarding fixed-term contracts in academia.
-* Personalrat Uni Heidelberg (BaWü): [Berechnung Urlaubsanspruch bei vereinbarter Stundenzahl](https://www.uni-heidelberg.de/md/organe/personalrat/pv/urlaub_hiwi.pdf) (Table of vacation hours by monthly work hours)
-* Gewerkschaftliche Studierendengruppe Karlsruhe (BaWü): [Urlaub, Feiertage und Krankheit als studentische Beschäftigte](http://gska.blogsport.de/2011/12/08/urlaub-feiertage-und-krankheit-als-studentische-beschaeftigte/) (Information on vacation, holidays and sick leaves)
-* Gewerkschaft Erziehung und Wissenschaft: [Studentische und  wissenschaftliche Hilfskräfte an Hochschulen: Ein Ratgeber](https://www.gew.de/fileadmin/media/publikationen/hv/Hochschule_und_Forschung/Broschueren_und_Ratgeber/RatgeberSHK-WHK_A5_web.pdf) (Hiwi rights and laws)
-* Gewerkschaft Erziehung und Wissenschaft: [Jobben im Studium: Tipps und Infos](https://www.gew.de/fileadmin/media/publikationen/hv/Hochschule_und_Forschung/Broschueren_und_Ratgeber/Jobben_im_Studium_web.pdf) (Student jobs: Rights and laws)
-* [Public holidays in Baden-Württemberg](https://www.ferienwiki.de/feiertage/de/baden-wuerttemberg)
+- Personalrat Uni Heidelberg (BaWü): [Wissenschaftliche und studentische Hilfskräfte](https://www.uni-heidelberg.de/einrichtungen/organe/personalrat/Hiwi.html) Salary information and links to relevant laws regarding vacation and regarding fixed-term contracts in academia.
+- Personalrat Uni Heidelberg (BaWü): [Berechnung Urlaubsanspruch bei vereinbarter Stundenzahl](https://www.uni-heidelberg.de/md/organe/personalrat/pv/urlaub_hiwi.pdf) (Table of vacation hours by monthly work hours)
+- Gewerkschaftliche Studierendengruppe Karlsruhe (BaWü): [Urlaub, Feiertage und Krankheit als studentische Beschäftigte](http://gska.blogsport.de/2011/12/08/urlaub-feiertage-und-krankheit-als-studentische-beschaeftigte/) (Information on vacation, holidays and sick leaves)
+- Gewerkschaft Erziehung und Wissenschaft: [Studentische und  wissenschaftliche Hilfskräfte an Hochschulen: Ein Ratgeber](https://www.gew.de/fileadmin/media/publikationen/hv/Hochschule_und_Forschung/Broschueren_und_Ratgeber/RatgeberSHK-WHK_A5_web.pdf) (Hiwi rights and laws)
+- Gewerkschaft Erziehung und Wissenschaft: [Jobben im Studium: Tipps und Infos](https://www.gew.de/fileadmin/media/publikationen/hv/Hochschule_und_Forschung/Broschueren_und_Ratgeber/Jobben_im_Studium_web.pdf) (Student jobs: Rights and laws)
+- [Public holidays in Baden-Württemberg](https://www.ferienwiki.de/feiertage/de/baden-wuerttemberg)
 
 (We don't take any responsibility for the content of the linked websites.)
 
 ---
 
-Last updated October 1st, 2020.
+Last updated 13-NOV-2023.

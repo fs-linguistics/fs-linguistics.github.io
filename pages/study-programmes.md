@@ -3,8 +3,8 @@ title: How are the study programmes structured?
 permalink: /study-programmes/
 ---
 
-# Computational Linguistics (ISCL)
-## BA
+## Computational Linguistics (ISCL)
+### BA
 
 The BA study programme usually takes 6 or more semesters (3 years or more), and is roughly structured as follows:
 
@@ -13,11 +13,12 @@ The BA study programme usually takes 6 or more semesters (3 years or more), and 
 3. year: Now it's mostly about applying what you've learned and picking classes that focus on more narrow topics you're interested in -- the last year of the BA can be quite similar to the MA studies. This is also when many students do their software internships. At the end, you write your BA thesis.
 
 Check out the [programme description on the SfS website](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/courses-of-study/courses-of-study-at-the-sfs/international-studies-in-computational-linguistics/ba-programme-iscl/) for up-to-date information on:
+
 - the module handbook (read this!)
 - the exam regulations
 - contacting the BA advisor (don't be afraid to send them an email or ask them for a meeting!)
 
-## MA
+### MA
 
 The MA study programme builds on the BA, especially on the obligatory classes from the first two years. 
 This programme offers you a lot of freedom when it comes to picking courses (and often topics within courses), which means that you can focus on subfields of computational linguistics that you're especially interested in. 
@@ -30,7 +31,7 @@ Check out the [programme description on the SfS website](https://uni-tuebingen.d
 - the exam regulations
 - contacting the MA advisor (don't be afraid to send them an email or ask them for a meeting!)
 
-### MA without a background in computational linguistics
+#### MA without a background in computational linguistics
 
 If you are admitted to the MA programme but don't have a background in computational linguistics, you will likely have to take a few additional classes. If you are a general linguist, this usually means you have to catch up on programming during your first winter semester and the following summer semester and on basic computational linguistics also during your first winter semester by taking specific classes from the BA.
 
@@ -38,15 +39,17 @@ Although you might not necessarily be able to receive credit points for Statisti
 
 Many ISCL MA students with a general linguistics background begin their MA studies by catching up on the computational side while taking courses for the supplementary area, and then focus on the core ISCL courses later. This can be easier if you plan to complete your MA studies in 5-6 semesters instead of the standard 4 semesters.
 
-### Graded vs Ungraded 
+#### Graded vs Ungraded
 
 Graded courses mean you will get a grade. **Un**graded means you can slack off with minimal effort, and still pass. 
 
-### Help I'm still confused!
+#### Help I'm still confused!
+
 [This is a very helpful guide that will hopefully answer all your questions!](/files/other/almaguide.pdf)
+
 ---
 
-# General Linguistics / Allgemeine Sprachwissenschaft (AS)
+## General Linguistics / Allgemeine Sprachwissenschaft (AS)
 
 If you study General Linguistics and can write up some information about the structure of the study programme, please contact us!
 
@@ -54,4 +57,4 @@ If you study General Linguistics and can write up some information about the str
 
 ---
 
-Last updated: 31 Jan 2020
+Last updated: 13-NOV-2023

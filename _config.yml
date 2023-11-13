@@ -27,6 +27,11 @@ facebook_username: fssprachwissenschaft
 collections:
   workshop:
     output: true
+    permalink: /:collection/:path/
+    values:
+      layout: single
+      author: false
+      date: true
 
 # Build settings
 markdown: kramdown
