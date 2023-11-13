@@ -25,7 +25,7 @@ Overview of this page:
 
 As for the file, add the following header:
 
-```
+```YAML
 ---
 layout: post
 title: "POST TITLE HERE!"
@@ -38,7 +38,7 @@ Save the file as `YYYY-MM-DD-helpful-title.md`.
 ### Less Quick, but still speedy
 
 1. Create a new file in the `_posts` directory using the python script:
-```
+```bash
 cd _posts
 python3 make_post.py "Name Of Post"
 ```
@@ -51,7 +51,7 @@ Adding posts that appear on the blog section on the main page:
 1. Create a new branch for your update (see [updating changes globally](#updating-changes-globally))
 2. Create a new file in the `_posts` directory. The file needs to follow the naming convention `YYYY-MM-DD-some-description-here.markdown`.
 3. The file should start with a special header. You can copy and adapt this header, or just copy, rename and update one of the already existing blog posts. (Jekyll will complain about the `post` layout, but for now giving it a dummy value instead of an actual layout gives the best result.)
-```
+```YAML
 ---
 layout: post
 title: "POST TITLE HERE!"
@@ -68,7 +68,7 @@ date: YYYY-MM-DD
 1. Create a new branch for your new page (see [updating changes globally](#updating-changes-globally)).
 2. Create a new markdown file in the `pages` folder.
 3. Add a header following this format to your file:
-```
+```YAML
 ---
 title: PAGE TITLE HERE
 permalink: /URL-SUFFIX-HERE/
@@ -95,7 +95,7 @@ We have implemented some controls to avoid breaking changes. Instead of pushing 
 ### Pull Requests (GitHub)
 
 1. Check out a new branch, make and commit your changes.
-```
+```bash
 git checkout -b fix-typos
 git add .
 git commit -m "Fix typos on all pages of the website"
@@ -111,13 +111,13 @@ git push
 ### Pull Requests (Github CLI)
 
 1. Check out a new branch, make and commit your changes.
-```
+```bash
 git checkout -b fix-typos
 git add .
 git commit -m "Fix typos on all pages of the website"
 ```
 2. Create a pull request using gh.
-```
+```bash
 gh pr create -t "Fix typos on the website"
 ```
 3. Answer the questions.
@@ -133,7 +133,7 @@ If GitHub provides a [pull request](https://github.com/fs-linguistics/fs-linguis
 Otherwise, there might just be an alert in the [Security](https://github.com/fs-linguistics/fs-linguistics.github.io/security) tab of the website's GitHub project.
 You can click on the button that invites you to perform a Dependabot security update, which will create a pull request for you that you just need to accept.
 Alternatively, the security alert will also tell you how to solve the problem yourself: Just add the code it suggests (`gem "gem-name-here", ">= version.number.here"`) to the end of the [Gemfile](https://github.com/fs-linguistics/fs-linguistics.github.io/blob/master/Gemfile), and then run:
-```
+```bash
 gem install gem-name-here
 gem update gem-name-here
 bundle update gem-name-here
@@ -145,7 +145,7 @@ Commit and push the changes.
 ## Jekyll Theme Modifications
 
 We're currently using a modified version of the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes) for Jekyll. The most important changes are:
-- `_includes/archive-single.html`: Overriding the blog post layout
+
 - `assets/css/main.scss`: Custom CSS
 - `_data/navigation.yml`: Sidebar contents
 

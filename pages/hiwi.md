@@ -5,9 +5,10 @@ permalink: /hiwi/
 
 A popular student job is working as a "Hiwi" ("studentische/wissenschaftliche Hilfskraft", research assistant).
 
-## What kind of work does a Hiwi do? 
+## What kind of work does a Hiwi do?
 
 This varies from Hiwi job to Hiwi job, but these are some common kinds of jobs:
+
 * Tutoring/TA'ing: Teaching tutorial sessions, grading assignments and exams.
 * Programming: Writing software for a research project.
 * Research: Depends a lot on the actual job.
@@ -22,6 +23,12 @@ This varies from Hiwi job to Hiwi job, but these are some common kinds of jobs:
 ## How much do I get paid?
 
 The salary is determined by the Land Baden-Württemberg and depends on whether you already have a degree. You can find an overview [on this website](https://www.uni-heidelberg.de/einrichtungen/organe/personalrat/Hiwi.html) (scroll down a bit).
+
+As of the 13th November 2023, the pay scale is the following:
+
+* No degree: €12/h
+* BA: €12,87/h
+* MA: €17,49/h
 
 ## How much can I work?
 
@@ -47,12 +54,12 @@ All of these are in German. Please let us know if any of these links are broken.
 
 If you look for Hiwi information online, make sure that you're getting Bundesland-specific information (e.g. on the salary) from websites of universities in Baden-Württemberg.
 
-- Personalrat Uni Heidelberg (BaWü): [Wissenschaftliche und studentische Hilfskräfte](https://www.uni-heidelberg.de/einrichtungen/organe/personalrat/Hiwi.html) Salary information and links to relevant laws regarding vacation and regarding fixed-term contracts in academia.
-- Personalrat Uni Heidelberg (BaWü): [Berechnung Urlaubsanspruch bei vereinbarter Stundenzahl](https://www.uni-heidelberg.de/md/organe/personalrat/pv/urlaub_hiwi.pdf) (Table of vacation hours by monthly work hours)
-- Gewerkschaftliche Studierendengruppe Karlsruhe (BaWü): [Urlaub, Feiertage und Krankheit als studentische Beschäftigte](http://gska.blogsport.de/2011/12/08/urlaub-feiertage-und-krankheit-als-studentische-beschaeftigte/) (Information on vacation, holidays and sick leaves)
-- Gewerkschaft Erziehung und Wissenschaft: [Studentische und  wissenschaftliche Hilfskräfte an Hochschulen: Ein Ratgeber](https://www.gew.de/fileadmin/media/publikationen/hv/Hochschule_und_Forschung/Broschueren_und_Ratgeber/RatgeberSHK-WHK_A5_web.pdf) (Hiwi rights and laws)
-- Gewerkschaft Erziehung und Wissenschaft: [Jobben im Studium: Tipps und Infos](https://www.gew.de/fileadmin/media/publikationen/hv/Hochschule_und_Forschung/Broschueren_und_Ratgeber/Jobben_im_Studium_web.pdf) (Student jobs: Rights and laws)
-- [Public holidays in Baden-Württemberg](https://www.ferienwiki.de/feiertage/de/baden-wuerttemberg)
+* Personalrat Uni Heidelberg (BaWü): [Wissenschaftliche und studentische Hilfskräfte](https://www.uni-heidelberg.de/einrichtungen/organe/personalrat/Hiwi.html) Salary information and links to relevant laws regarding vacation and regarding fixed-term contracts in academia.
+* Personalrat Uni Heidelberg (BaWü): [Berechnung Urlaubsanspruch bei vereinbarter Stundenzahl](https://www.uni-heidelberg.de/md/organe/personalrat/pv/urlaub_hiwi.pdf) (Table of vacation hours by monthly work hours)
+* Gewerkschaftliche Studierendengruppe Karlsruhe (BaWü): [Urlaub, Feiertage und Krankheit als studentische Beschäftigte](http://gska.blogsport.de/2011/12/08/urlaub-feiertage-und-krankheit-als-studentische-beschaeftigte/) (Information on vacation, holidays and sick leaves)
+* Gewerkschaft Erziehung und Wissenschaft: [Studentische und  wissenschaftliche Hilfskräfte an Hochschulen: Ein Ratgeber](https://www.gew.de/fileadmin/media/publikationen/hv/Hochschule_und_Forschung/Broschueren_und_Ratgeber/RatgeberSHK-WHK_A5_web.pdf) (Hiwi rights and laws)
+* Gewerkschaft Erziehung und Wissenschaft: [Jobben im Studium: Tipps und Infos](https://www.gew.de/fileadmin/media/publikationen/hv/Hochschule_und_Forschung/Broschueren_und_Ratgeber/Jobben_im_Studium_web.pdf) (Student jobs: Rights and laws)
+* [Public holidays in Baden-Württemberg](https://www.ferienwiki.de/feiertage/de/baden-wuerttemberg)
 
 (We don't take any responsibility for the content of the linked websites.)
 
