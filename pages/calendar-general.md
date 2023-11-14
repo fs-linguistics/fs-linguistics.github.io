@@ -23,7 +23,4 @@ Winter Semester runs from 1 October 2023 to 31 March 2024.
 - End of the lecture period: Saturday 10. February 2024
 - Re-enrollment period: from 1 June 2023 to 15 August 2023
 
-For further information check the [university website](https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/semestertermine/semestertermine-bis-2027/) 
-
-
-
+For further information check the [university website](https://uni-tuebingen.de/studium/studienorganisation/semester-und-studienplanung/semestertermine/semestertermine-bis-2027/)

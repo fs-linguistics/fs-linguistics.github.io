@@ -8,5 +8,8 @@ We are currently offering workshops every week led by students where we talk abo
 
 Workshops we've offered:
 
-- [Updating the site](/collections/_workshops/2023-10-26-simple-website)
-- [Haskell 1](/collections/_workshops/2023-11-10-haskell1.md)
+{% for item in site.workshops %}
+  <ul>
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  </ul>
+{% endfor %}

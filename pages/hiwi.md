@@ -5,9 +5,10 @@ permalink: /hiwi/
 
 A popular student job is working as a "Hiwi" ("studentische/wissenschaftliche Hilfskraft", research assistant).
 
-## What kind of work does a Hiwi do? 
+## What kind of work does a Hiwi do?
 
 This varies from Hiwi job to Hiwi job, but these are some common kinds of jobs:
+
 * Tutoring/TA'ing: Teaching tutorial sessions, grading assignments and exams.
 * Programming: Writing software for a research project.
 * Research: Depends a lot on the actual job.
@@ -22,6 +23,12 @@ This varies from Hiwi job to Hiwi job, but these are some common kinds of jobs:
 ## How much do I get paid?
 
 The salary is determined by the Land Baden-Württemberg and depends on whether you already have a degree. You can find an overview [on this website](https://www.uni-heidelberg.de/einrichtungen/organe/personalrat/Hiwi.html) (scroll down a bit).
+
+As of the 13th November 2023, the pay scale is the following:
+
+* No degree: €12/h
+* BA: €12,87/h
+* MA: €17,49/h
 
 ## How much can I work?
 
@@ -58,4 +65,4 @@ If you look for Hiwi information online, make sure that you're getting Bundeslan
 
 ---
 
-Last updated October 1st, 2020.
+Last updated 13-NOV-2023.
