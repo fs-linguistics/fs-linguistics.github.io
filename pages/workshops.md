@@ -1,6 +1,6 @@
 ---
 title: Workshops 
-permalink: /workshops/
+permalink: /student-workshops/
 ---
 
 
@@ -10,6 +10,6 @@ Workshops we've offered:
 
 {% for item in site.workshops %}
   <ul>
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      <li>{{item.date | date: '%B %d, %Y'}}:  <a href="{{ item.url }}">{{ item.title }}</a></li>
   </ul>
 {% endfor %}
