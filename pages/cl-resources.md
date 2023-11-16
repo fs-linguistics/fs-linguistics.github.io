@@ -32,6 +32,16 @@ permalink: /resources/
 
 ## Recommended Readings
 
+### General
+
+#### Finding literature online
+
+- [Google Scholar](https://scholar.google.com)
+    -  freely accessible web search engine that only displays scholarly literature for all disciplines
+
+- [ACL Anthology](https://aclanthology.org)
+    - collection of papers focusing only on the study of computational linguistics and natural language processing
+
 ### Intro Level
 
 ### Current Trends
