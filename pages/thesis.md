@@ -85,7 +85,6 @@ Please contact us if you’d like to share your thesis!
 - [A comparison of deep learning systems for phone recognition](https://github.com/porcelluscavia/speechrecognition) by Sam Tureski (2018, supervised by Prof. Kurt Eberle and Dr. Fabian Tomaschek)
 - [Neural sequence to sequence lemmatization](https://twuebi.github.io/publications/ba.pdf) by Tobias Pütz (2018, supervised by Dr. Daniël de Kok)
 - [Clustering dialect varieties based on historical sound correspondences](https://github.com/verenablaschke/dialect-clustering) by Verena Blaschke (2018, supervised by Dr. Çağrı Çöltekin)
-- [Using finite state transducers for multilingual rule-based phonetic transcription](http://www.tdaneyko.de/BAThesis) by Thora Daneyko (2016, supervised by Prof. Gerhard Jäger)
 
 --- 
 
