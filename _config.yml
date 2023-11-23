@@ -24,6 +24,7 @@ github_username: fs-linguistics
 facebook_username: fssprachwissenschaft
 
 # Define collections
+collections_dir: collections
 collections:
   workshops:
     output: true
@@ -72,7 +73,7 @@ minimal_mistakes_skin : "contrast" # "air", "aqua", "contrast", "default", dark"
 repository: "fs-linguistics/fs-linguistics.github.io"
 facebook:
   username: "fssprachwissenschaft"
-include: ["_pages"]
+include: ["_pages", "_workshops", "_posts"]
 locale: en
 logo: "files/site/logo.jpg"
 

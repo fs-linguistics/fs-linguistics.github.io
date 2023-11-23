@@ -27,13 +27,9 @@ docs:
         url: /abroad/
       - title: "Software internships"
         url: /internship/
-      - title: "Writing the ISCL BA thesis"
-        url: /iscl-ba-thesis/
-      - title: "BA & MA thesis archive"
+      - title: "Thesis Guide & Archive"
         url: /thesis/
-      - title: "BA thesis template (LaTeX)"
-        url: /ba-thesis-template/
-      - title: "Hiwi jobs"
+      - title: "Hiwi Jobs"
         url: /hiwi/
       - title: "Precourse Sildes"
         url: /precourseslides-ws2324/
