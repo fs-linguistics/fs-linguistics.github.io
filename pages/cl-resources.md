@@ -53,6 +53,9 @@ permalink: /resources/
 
 - [Overleaf](https://www.overleaf.com)
     - cloud-based LATEX editor to be used in your browser
+ 
+- [Regex101](https://regex101.com)
+  - test and understand regex
 
 ## Tutorials
 
