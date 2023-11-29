@@ -20,6 +20,9 @@ To help ease your minds, we are also planning to offer a catch-up/make-up course
 
 In the meantime, it would be nice if you start thinking about questions/problems and hardships you have so we don't have to probe you guys and make it all just a tad more efficient 
 
+ 
+Also, don't forget about our General Purpose Tutorials on Fridays from 4-6 PM, taking place in 035 Brechtbau. These sessions are an excellent opportunity for you to receive additional help with any topics you're struggling with. We encourage you to make the most of this resource to enhance your understanding and skills! 
+ 
 We believe in your ability to succeed and are here to support you every step of the way. Keep pushing forward!
 
 Yours truly,
