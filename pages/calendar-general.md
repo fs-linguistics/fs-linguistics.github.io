@@ -5,6 +5,11 @@ redirect_from:
     - /calendar/
 ---
 
+
+<iframe src="https://calendar.google.com/calendar/u/0/embed?src=b8b5e3308a11d1f02ea9a710a07116117b568951be60f5325846200d09ae9f25@group.calendar.google.com&ctz=Europe/Berlin"  width="800" height="600" frameborder="0" scrolling="no">  </iframe>
+
+
+
 ## Fachschaft activities
 
 - **Fachschaft meetings** Every Friday at 6PM in person in the FS room. You can also join on [Discord](https://discord.gg/FcaEeaE6WN) (though please message someone that you plan to join online). Check our [planning page](https://github.com/fs-linguistics/Fachschaft-Planning) to see what the agenda is going to be.
