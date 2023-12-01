@@ -8,7 +8,22 @@ redirect_from:
 ## Fachschaft activities
 
 - **Fachschaft meetings** Every Friday at 6PM in person in the FS room. You can also join on [Discord](https://discord.gg/FcaEeaE6WN) (though please message someone that you plan to join online). Check our [planning page](https://github.com/fs-linguistics/Fachschaft-Planning) to see what the agenda is going to be.
-- **Workshops** Currently planned for Wednesday, but may be adjusted for later. Join our Whatsapp group for more details if someone is too lazy to update the website. 
+- **Workshops** 
+Student run workshops where we teach some comp ling related task. If you missed it, check out [our page](/student-workshops/), for previous ones. Usually on Mondays, but checkout our anouncements on our WhatsApp group.
+
+
+- **General Purpose Tutorial**
+
+This is the *GPT* that your teachers won't get mad at you for using.[^1]  It's on Fridays from 4PM to 6PM and you can ask any question you want from any class that you are struggling with (in the undegraduate program). It can be from the computational part or from the linguistics part.  If you have extra time, you can join us for the Fachschaft Meeting afterwards. 
+
+[^1]: Please note that questions like "How to make a bomb" are still discouraged in our *GPT*
+
+
+
+
+### Stuff we already did
+
+
 - **Precourse** 9 - 13 October - Opportunity for ersties to get a glimpse into what their first semester will be like and a great way to get to know each other. [See the full schedule](/precourse-schedule/)
 
 
