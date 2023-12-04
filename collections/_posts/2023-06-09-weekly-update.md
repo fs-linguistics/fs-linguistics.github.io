@@ -7,8 +7,6 @@ date: 2023-06-09
 
 Hello welcome to the weekly update.
 
-I'm 90% sure nobody actually reads this, but at least you guys won't complain that this website never gets updated.
-
 # Events this week
 
 ## General Purpose Tutorial 
