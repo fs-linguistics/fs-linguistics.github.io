@@ -3,7 +3,7 @@ layout: single
 title: Christmas Party
 date: 2023-11-24
 ---
-![Party](files/events/2023-christmas.jpeg)
+![Party](/files/events/2023-christmas.jpeg)
 
 
  'Tis the season to be jolly, and what better way to spread the holiday cheer than with a little CL/GL Christmas party? 🤩🎄
