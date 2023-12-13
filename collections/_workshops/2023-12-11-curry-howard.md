@@ -105,4 +105,9 @@ Implication introduction is function abstraction
 Implication elimination is function application
 
 
+And basically, lambda calculus is what drives Haskell. Haskell functions can be viewed lambda calculs with some extra syntactic sugar. 
+
+Each function in haskell has a type. I've tried to show that these types correspond with a statement in logic. And this logic statement can be shown to be true using natural deduction. But if  the type corresponds with a statement, then what does the program itself mean? This is entire idea of the curry howard correspondance: the program itself is the proof. Once you convert it to more primitive lambda expressions, each statement in the lambda expression corresponds exactly to a statement in natural deduction.  This also has the nice property that running a haskell program is essentially verifying that a certain statement is true. So you can view haskell as a proof verifier. 
+
+
 
