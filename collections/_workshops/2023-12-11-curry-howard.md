@@ -96,10 +96,12 @@ These all start with the backslash which stands for lambda abstraction. In id, w
 
 Now notice that when you do did your proof, you only had 3 rules that you used, and simialrly, lambda calculus has 3 words that you used.
 
-this is because natural deduction *is* lambda calculus. 
+This is because natural deduction *is* lambda calculus. 
 
 Variable are Variables
-Implication introduction is function abstraction
+
+Implication introduction is function abstraction 
+
 Implication elimination is function application
 
 
