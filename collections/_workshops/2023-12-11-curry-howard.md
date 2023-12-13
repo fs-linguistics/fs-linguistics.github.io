@@ -53,3 +53,61 @@ Now the hint here is that you will use type variables. Now why are they called t
 
 but to give you a hint, haskell actually puts a forall in frot of these types. 
 
+
+That's right, you can view the arrow is implication. 
+
+*Exercise* Prove all your types are correct. 
+ 
+Use natural deduction. 
+
+
+If you did everything correctly, you should see that you need only 3 rules.
+
+1. Implication Introduction
+2. Introduction Elimination
+3. Hypothesis Assumption
+
+  
+
+
+OK now, lets go over a quick thing about lambda calulus. 
+ 
+According to wikipedia, 
+
+The set of lambda expressions, Λ, can be defined inductively:
+
+If x is a variable, then x ∈ Λ.
+If x is a variable and M ∈ Λ, then (λx.M) ∈ Λ.
+If M, N ∈ Λ, then (M N) ∈ Λ.
+
+
+
+Lets rewrite the expressions in lambda expressions, which I should have mentioned last time. 
+
+```haskell
+  id = \x -> x
+  const = \x -> \y -> x
+  application = \f -> \x -> f x
+  composition = \f -> \g -> \x -> f (g x)
+```
+
+These all start with the backslash which stands for lambda abstraction. In id, we then add a variable and we are done. In const, we start to add another lamda expression. In application, we do the same, but then we add a some lambda application. Similarly for compisiton, we do the same thing.
+
+
+Now notice that when you do did your proof, you only had 3 rules that you used, and simialrly, lambda calculus has 3 words that you used.
+
+This is because natural deduction *is* lambda calculus. 
+
+Variable are Variables
+
+Implication introduction is function abstraction 
+
+Implication elimination is function application
+
+
+And basically, lambda calculus is what drives Haskell. Haskell functions can be viewed lambda calculs with some extra syntactic sugar. 
+
+Each function in haskell has a type. I've tried to show that these types correspond with a statement in logic. And this logic statement can be shown to be true using natural deduction. But if  the type corresponds with a statement, then what does the program itself mean? This is entire idea of the curry howard correspondance: the program itself is the proof. Once you convert it to more primitive lambda expressions, each statement in the lambda expression corresponds exactly to a statement in natural deduction.  This also has the nice property that running a haskell program is essentially verifying that a certain statement is true. So you can view haskell as a proof verifier. 
+
+
+
