@@ -57,6 +57,37 @@ permalink: /resources/
 - [Regex101](https://regex101.com)
   - test and understand regex
 
+- [Wiktionary](https://www.wiktionary.org/)
+   - Great resource for finding definitions in any language and word resources in general
+   - Many words have IPA transcriptions
+   - Great etymology, will often be able to trace English words back to PIE.
+
+- [Wikipedia IPA Chart](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
+   - Better than the paper chart because you can click on stuff
+   - Also bigger than the offical chart for some reason
+   - Clicking on each phone will also give you examples of words using that phone in various languages
+
+- [Anki](https://apps.ankiweb.net/)
+   - General Flashcard program
+
+### Programming
+
+- [Github Desktop](https://desktop.github.com/)
+   - Desktop GUI for using git if you are still uncomfortable with the commandline
+
+#### Text Editors
+
+- [VS Code](https://code.visualstudio.com/)
+   - Probably the most common editor
+
+- [Vim](https://www.vim.org/)
+   - The editor to use to flex on everyone
+
+- [Emacs](https://www.gnu.org/software/emacs/)
+   - [Real programmers use butterflies](https://xkcd.com/378/)
+
+
+
 ## Tutorials
 
 ### Videos
@@ -66,4 +97,6 @@ permalink: /resources/
 ## Other
 
 - [Diversity in Linguistics](https://div-ling.org/)
-   - they offer a 'Statistics for Linguistics' course
+   - they offer a 'Statistics for Linguistics' course 
+
+
