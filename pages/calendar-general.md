@@ -20,7 +20,7 @@ Student run workshops where we teach some comp ling related task. If you missed 
 
  
 ### General Purpose Tutorial
-This is the *GPT* that your teachers won't get mad at you for using.[^1]  Fridays from 4PM to 6PM in room 035 Brechtbau. Help and guidance will be provided for any question related to linguistics or programming.  If you have extra time, you can join us for the Fachschaft Meeting afterwards. 
+This is the *GPT* that your teachers won't get mad at you for using.[^1]  Fridays from 12PM to 2PM in room 035 Brechtbau. Help and guidance will be provided for any question related to linguistics or programming.  If you have extra time, you can join us for the Fachschaft Meeting afterwards. 
 
 [^1]: Please note that questions like "How to make a bomb" are still discouraged in our *GPT*
 
