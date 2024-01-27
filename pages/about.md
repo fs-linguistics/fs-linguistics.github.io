@@ -14,7 +14,7 @@ If you're interested in joining us, please come to one of the regulars' tables, 
 
 ## Meeting times
 
-Our meetings are currently every Tuesday at 6:30 PM at 035 Brechtbau. If you go there and nobody's there, then someone needs to update this info.
+Our meetings are currently every Tuesday at 6:30 PM at 035 Brechtbau.
 
 ---
 
