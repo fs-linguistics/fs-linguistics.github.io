@@ -13,7 +13,7 @@ redirect_from:
 ## Fachschaft activities
 
 ### Fachschaft meetings
-Every Friday at 6PM in person in the FS room. You can also join on [Discord](https://discord.gg/FcaEeaE6WN) (though please message someone that you plan to join online). Check our [planning page](https://github.com/fs-linguistics/Fachschaft-Planning) to see what the agenda is going to be.
+Every Tuesday at 6:30PM in person in the room 035 in Brechtbau. You can also join on [Discord](https://discord.gg/FcaEeaE6WN) (though please message someone that you plan to join online). Check our [planning page](https://github.com/fs-linguistics/Fachschaft-Planning) to see what the agenda is going to be.
 
 ### Workshops
 Student run workshops where we teach some comp ling related task. If you missed it, check out [our page](/student-workshops/), for previous ones. Usually on Mondays, but checkout our anouncements on our WhatsApp group.
