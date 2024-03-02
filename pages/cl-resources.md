@@ -2,7 +2,7 @@
 title: General Resources for Your Computational Linguistics Journey
 permalink: /resources/
 ---
-**_NOTE:_**  Your favourite resource does not appear in the list? You MUST let us know! :) Either send a pull request or contact annika.ott@student.uni-tuebingen.de to do it for you. 
+**_NOTE:_**  Your favourite resource does not appear in the list? You MUST let us know! :) Either send a pull request or [contact us](mailto:wsinf1@uni-tuebingen.de) to do it for you. 
 ## Conferences
 
 -  CICLing: International Conference on Computational Linguistics and Intelligent Text Processing
