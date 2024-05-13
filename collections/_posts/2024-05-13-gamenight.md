@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Christmas Party
-date: 2023-11-24
+title: Game Night
+date: 2024-05-13
 ---
 ![GameNight](/files/events/2024-gamenight-may.jpeg)
 
