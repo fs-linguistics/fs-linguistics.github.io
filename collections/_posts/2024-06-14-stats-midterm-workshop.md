@@ -4,7 +4,7 @@ title: Statistics Pre-midterm Workshop
 date: 2024-04-14
 ---
 
-Kick-start your summer semester studies with our two day workshop about a pirates favourite programming language - R.
+Prepare for the upcoming Methods II: Statistics midterm with our workshop!
 
 # What is the plan?
 
