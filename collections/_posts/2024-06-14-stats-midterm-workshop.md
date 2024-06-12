@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Statistics Pre-midterm Workshop
-date: 2024-04-14
+date: 2024-06-12
 ---
 
 Prepare for the upcoming Methods II: Statistics midterm with our workshop!
