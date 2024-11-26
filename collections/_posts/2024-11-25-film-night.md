@@ -3,7 +3,7 @@ layout: single
 title: "Film Night"
 date: 2024-11-26
 ---
-![image](arrival.jpeg)
+![arrival](/files/events/2024-arrival.jpeg)
 
 The Fachschaft is inviting you to watch "Arrival" (2016) this Friday! Come see the all-time linguistics classic by Denis Villeneuve and bring snacks (and friends) 👽
 
