@@ -7,5 +7,3 @@ category: page
 {{ title }}
 
 The Institutsbeiratssitzung (roughly institute advisory board meeting / IBR) is a regular meeting during which the professors of the SfS and some Fachschaft representatives meet to discuss allocation of funds (e.g. QSM) and general issues that are crucial for all members of the SfS.
-
-This semester's IBR meeting is scheduled for Monday, the 20th November 2023 from 11am to 12pm. John, Paula, and Nicolai will attend.
