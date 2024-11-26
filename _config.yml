@@ -33,6 +33,13 @@ collections:
       layout: single
       author: false
       date: true
+  joboffers:
+    output: true
+    permalink: /:collection/:path/
+    values:
+      layout: single
+      author: false
+      date: true
 
 # Build settings
 markdown: kramdown
@@ -73,7 +80,7 @@ minimal_mistakes_skin : "contrast" # "air", "aqua", "contrast", "default", dark"
 repository: "fs-linguistics/fs-linguistics.github.io"
 facebook:
   username: "fssprachwissenschaft"
-include: ["_pages", "_workshops", "_posts"]
+include: ["_pages", "_workshops", "_posts, _joboffers"]
 locale: en
 logo: "files/site/logo.jpg"
 
