@@ -2,8 +2,9 @@
 title:  "GermaNet Hiwi"
 date:  2024-11-26
 categories: job-offers
+layout: single
 ---
-# GermanNet Hiwi
+# GermaNet Hiwi
 Unfortunately, this offers is only available to German native speakers.
 
 ## Details
