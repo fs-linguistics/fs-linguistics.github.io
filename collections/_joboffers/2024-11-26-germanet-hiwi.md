@@ -4,8 +4,8 @@ date:  2024-11-26
 categories: job-offers
 layout: single
 ---
-# GermaNet Hiwi
-Unfortunately, this offers is only available to German native speakers.
+## Note
+Unfortunately, this offer is only available to German native speakers.
 
 ## Details
 * Start date: January 2025
