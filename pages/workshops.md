@@ -4,7 +4,9 @@ permalink: /student-workshops/
 ---
 
 
-We are currently offering workshops every week led by students where we talk about comp ling  related  topics.
+We offer workshops every once in a while led by students which cover topics related to (computational) linguistics and programming.
+
+To stay up-to-date with the workshops, join the WhatsApp community or [our moodle](https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=428)
 
 Workshops we've offered:
 
