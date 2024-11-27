@@ -33,7 +33,7 @@ collections:
       layout: single
       author: false
       date: true
-  joboffers:
+  job-offers:
     output: true
     permalink: /:collection/:path/
     values:
