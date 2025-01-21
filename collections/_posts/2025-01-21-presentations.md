@@ -8,7 +8,7 @@ date: 2024-10-16
 
 Hey all,
 
-Next Thursday, the 17th of October and Friday, the 18th of October, the short-listed candidates to replace Prof Hinrichs will hold short presentations followed by questions from students. 
+Next Thursday, the 30th of January and Friday, the 31st of January, the short-listed candidates to replace Prof Hinrichs will hold short presentations followed by questions from students. 
 
 The presentations will begin at 9:00 AM on Thursday and at 8:30 AM on Friday.
 
