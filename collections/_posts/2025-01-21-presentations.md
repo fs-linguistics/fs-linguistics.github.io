@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Public Presentations by Candidates for replacing Prof Meurers"
-date: 2024-10-16
+date: 2025-01-21
 ---
 
 # Public Presentations by Candidates for replacing Prof Meurer
