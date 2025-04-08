@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Fachschaft General & Computational Linguistics
-email: nwsinf1@uni-tuebingen.de
+email: fs@semsprach.uni-tuebingen.de
 description: >- # this means to ignore newlines until "baseurl:" 
   Association of students studying at the 
   Seminar für Sprachwissenschaft at the University of Tübingen.
