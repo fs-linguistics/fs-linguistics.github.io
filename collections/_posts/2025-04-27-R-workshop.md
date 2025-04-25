@@ -10,7 +10,9 @@ Hey everyone!
 You can now sign up for the Intro to R workshop! It's aimed at 2nd semester students taking statistics, but anyone can join!
 
 🗓 Sunday 27th of April
+
 🕙 10:00 - 16:00
+
 📍Brechtbau, room 027
 
 [Please sign up here](https://forms.gle/FJZcjWRecUBFaDtFA)
