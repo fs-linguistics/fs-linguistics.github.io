@@ -4,17 +4,15 @@ permalink: /contact/
 ---
 
 ## Contact Information
-E-mail: `nwsinf1 AT uni-tuebingen DOT de`
+E-mail: `fs AT semsprach DOT uni-tuebingen DOT de`
 
-Facebook: [fssprachwissenschaft](https://www.facebook.com/fssprachwissenschaft)
-
-Moodle: [Fachschaft of General and Computational Linguistics](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=1181)
+Moodle: [Fachschaft of General and Computational Linguistics](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=722)
 
 Instagram : [linguistics_fachschaft_tue](https://www.instagram.com/linguistics_fachschaft_tue/)
 
-Discord: ISCL/GL Students [Discord](https://discord.gg/SDn85mB5xv)
-
 [Other useful Links](https://linktr.ee/linguistics_sfs_tue)
+
+Please contact us if you want to be added to the WhatsApp community!
 
 Mailing address:
 > Fachschaft Sprachwissenschaft
