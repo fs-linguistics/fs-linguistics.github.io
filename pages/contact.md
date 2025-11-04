@@ -12,8 +12,6 @@ Instagram : [linguistics_fachschaft_tue](https://www.instagram.com/linguistics_f
 
 [Other useful Links](https://linktr.ee/linguistics_sfs_tue)
 
-Please contact us if you want to be added to the WhatsApp community!
-
 Mailing address:
 > Fachschaft Sprachwissenschaft
 > Keplerstraße 2
@@ -26,4 +24,4 @@ Fachschaft Room: room 035 in Brechtbau
 If you'd like to contact us about this website (broken URLs, technical problems, guides we should add, guides you have written that you'd like for us to add, etc.), please send us an email or write a [Github issue](https://github.com/fs-linguistics/fs-linguistics.github.io/issues).
 
 ## Meetings
-Our meetings are currently held every Monday at 6:30 PM in room 035 Brechtbau
+Our meetings are currently held every Wednesday at 18:30 in room 035 in Brechtbau.
