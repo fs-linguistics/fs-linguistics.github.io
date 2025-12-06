@@ -3,14 +3,16 @@ title: How are the study programmes structured?
 permalink: /study-programmes/
 ---
 
+[Our UNOFFICIAL modulehandbook summary](https://fs-linguistics.github.io/modulehandbook-summary/)
+
 ## Computational Linguistics (ISCL)
 ### BA
 
 The BA study programme usually takes 6 or more semesters (3 years or more), and is roughly structured as follows:
 
-1. year: Introductory courses on programming, linguistics, and computational linguistics. Your schedule is almost entirely fixed.
-2. year: Courses that build on the foundations you've acquired. You have a little more agency in the course selection.
-3. year: Now it's mostly about applying what you've learned and picking classes that focus on more narrow topics you're interested in -- the last year of the BA can be quite similar to the MA studies. This is also when many students do their software internships. At the end, you write your BA thesis.
+1st year: Introductory courses on programming, linguistics, and computational linguistics. Your schedule is almost entirely fixed.
+2nd year: Courses that build on the foundations you've acquired. You have a little more agency in the course selection.
+3rd year: Now it's mostly about applying what you've learned and picking classes that focus on more narrow topics you're interested in -- the last year of the BA can be quite similar to the MA studies. This is also when many students do their software internships. At the end, you write your BA thesis.
 
 Check out the [programme description on the SfS website](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/courses-of-study/courses-of-study-at-the-sfs/international-studies-in-computational-linguistics/ba-programme-iscl/) for up-to-date information on:
 
@@ -43,18 +45,12 @@ Many ISCL MA students with a general linguistics background begin their MA studi
 
 Graded courses mean you will get a grade. **Un**graded means you can slack off with minimal effort, and still pass. 
 
-#### Help I'm still confused!
-
-[This is a very helpful guide that will hopefully answer all your questions!](/files/other/almaguide.pdf)
-
 ---
 
 ## General Linguistics / Allgemeine Sprachwissenschaft (AS)
-
-If you study General Linguistics and can write up some information about the structure of the study programme, please contact us!
 
 - [Information on the department website](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/courses-of-study/courses-of-study-at-the-sfs/general-linguistics/)
 
 ---
 
-Last updated: 13-NOV-2023
+Last updated: 06-DEC-2025
