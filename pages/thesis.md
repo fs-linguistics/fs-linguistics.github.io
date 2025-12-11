@@ -15,7 +15,7 @@ The unofficial(!) guide to steps to follow for registering and submitting your B
 They are based on my experiences writing my BA thesis in summer 2018, and the information I'd have found useful to know beforehand.
 
 1. Find an advisor. They need to have at least an MA degree.
-The ISCL BA coordinator (as of November 2021: Dr. Çöltekin) is the person to go to if you have questions about the process of writing your thesis but no advisor yet.
+The ISCL BA coordinator (Jochen Saile) is the person to go to if you have questions about the process of writing your thesis but no advisor yet.
 Generally, it's a good idea to talk with potential advisors early on so you can find out if your research interests line up and if they have time to supervise your thesis.
 Most students' advisors are lecturers whose classes they have taken or researchers they know from their Hiwi work.
 2. Find a *specific* topic you want to research.
@@ -86,7 +86,8 @@ Please contact us if you’d like to share your thesis!
 - [A comparison of deep learning systems for phone recognition](https://github.com/porcelluscavia/speechrecognition) by Sam Tureski (2018, supervised by Prof. Kurt Eberle and Dr. Fabian Tomaschek)
 - [Neural sequence to sequence lemmatization](https://twuebi.github.io/publications/ba.pdf) by Tobias Pütz (2018, supervised by Dr. Daniël de Kok)
 - [Clustering dialect varieties based on historical sound correspondences](https://github.com/verenablaschke/dialect-clustering) by Verena Blaschke (2018, supervised by Dr. Çağrı Çöltekin)
+- [TheVowelSpaceofSuansu](files/thesis/ISCL-BA-aadne-skjaeveland-joessing.pdf) by Ådne Skjæveland Jøssing (2025, supervised by Dr. Jessica K. Ivani and Prof. Gerhard Jäger)
 
 --- 
 
-Last updated: 12-JAN-2024
+Last updated: 11-DEC-2025
