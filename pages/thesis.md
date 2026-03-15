@@ -11,21 +11,21 @@ permalink: /thesis/
 
 ## BA Thesis (ISCL)
 
-The unofficial(!) guide to steps to follow for registering and submitting your BA thesis in the Computational Linguistics programme.
+The unofficial(!) guide of steps to follow for registering and submitting your BA thesis in the Computational Linguistics programme.
 They are based on my experiences writing my BA thesis in summer 2018, and the information I'd have found useful to know beforehand.
 
 1. Find an advisor. They need to have at least an MA degree.
-The ISCL BA coordinator (Jochen Saile) is the person to go to if you have questions about the process of writing your thesis but no advisor yet.
+The ISCL BA coordinator (Jochen Saile) is the person to go to if you have questions about the process of writing your thesis, but have no advisor yet.
 Generally, it's a good idea to talk with potential advisors early on so you can find out if your research interests line up and if they have time to supervise your thesis.
 Most students' advisors are lecturers whose classes they have taken or researchers they know from their Hiwi work.
 2. Find a *specific* topic you want to research.
 This can take quite some time!
 At this stage, you should already get into the relevant background literature and (if it's a practical topic) try out which approaches might work for your project.
-Discussing your ideas with your advisor helps narrowing down a broader topic to a clear-cut question you can actually tackle in your BA thesis.
+Discussing your ideas with your advisor helps narrow down a broader topic to a clear-cut question you can actually tackle in your BA thesis.
 3. Make an appointment with Dr. Sauer, who is responsible for ISCL student matters at the examination office.
 Show him that you have all the necessary course credits and ask him for the application form for your BA thesis.
 NOTE: Students from just about any other study programme don't need to do this, but it *is* necessary for ISCL students!
-4. Fill out the application (it is mosty about decding on a thesis title that *cannot* be changed later on) and ask your advisor to sign it.
+4. Fill out the application (it is mostly about deciding on a thesis title that *cannot* be changed later on) and ask your advisor to sign it.
 Meet Dr. Sauer again.
 Once he signs the form, you have a fixed deadline for your thesis: exactly 9 weeks from that point.
 5. Write the thesis.
@@ -40,7 +40,7 @@ This appears to be fairly common, so no worries :)
 
 Useful links:
 
-- [Prüfungsordnung (examination regulations)](https://uni-tuebingen.de/einrichtungen/verwaltung/iv-studierende/zentrales-pruefungsamt/geisteswissenschaftliche-faecher/pruefungsordnungen-und-modulhandbuecher/aktuell/#c527110): The official guidelines for your BA including your thesis.
+- [Prüfungsordnung (examination regulations)](https://uni-tuebingen.de/einrichtungen/verwaltung/iv-studierende/zentrales-pruefungsamt/geisteswissenschaftliche-faecher/pruefungsordnungen-und-modulhandbuecher/aktuell/#c527110): The official guidelines for your BA, including your thesis.
 Make sure you select the correct version (year, major/minor, BA/MA).
 Unfortunately, there does not seem to be an English translation available.
 - [Module Handbook](https://uni-tuebingen.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDA0ODQzMDcsImV4cCI6MTcwMDU3NDMwNSwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW5cL1VuaV9UdWViaW5nZW5cL0RlemVybmF0ZVwvRGV6ZXJuYXRfSVZfU3R1ZGllcmVuZGVcL0FidGVpbHVuZ18yX1plbnRyYWxlc19QcnVlZnVuZ3NhbXRcL0RhdGVpZW5cL21oYlwvYmFcL21oYl9iYV9jbC1oZi1lbmdfMjAyMy0wNi0wNi5wZGYiLCJwYWdlIjoxMjgzMTF9.HLD-WirdcrnTM5WV6LystH6G43pK1MNMk0pTnCnryYE/mhb_ba_cl-hf-eng_2023-06-06.pdf): The thesis is very briefly described in module ISCL-BA-12.
@@ -87,7 +87,8 @@ Please contact us if you’d like to share your thesis!
 - [Neural sequence to sequence lemmatization](https://twuebi.github.io/publications/ba.pdf) by Tobias Pütz (2018, supervised by Dr. Daniël de Kok)
 - [Clustering dialect varieties based on historical sound correspondences](https://github.com/verenablaschke/dialect-clustering) by Verena Blaschke (2018, supervised by Dr. Çağrı Çöltekin)
 - [The Vowel Space of Suansu](/files/thesis/ISCL-BA-aadne-skjaeveland-joessing.pdf) by Ådne Skjæveland Jøssing (2025, supervised by Dr. Jessica K. Ivani and Prof. Gerhard Jäger)
+- [The Effect of Valence Framing on Inferring Cause Normalities](https://github.com/aidayg24/causal_selection) by Aida Rostami (2025, supervised by Prof. Dr. Michael Franke)
 
 --- 
 
-Last updated: 11-DEC-2025
+Last updated: 15-MARCH-2026
