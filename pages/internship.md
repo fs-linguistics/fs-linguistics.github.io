@@ -12,6 +12,7 @@ Internship reports and presentations
 Please contact us if you’d like to share your internship report and/or presentation!
 
 - Sevde Ceylan (BA ISCL) @ VICO Research & Consulting GmbH: [report](/files/internship/Internship_Report_Sevde_Ceylan_Feedback.pdf)
+- Aida Rostami (BA ISCL) @ BEC Robotics [report](/files/internship/Internship_Report_Aida_Rostami.pdf)
 
 Where?
 ---
