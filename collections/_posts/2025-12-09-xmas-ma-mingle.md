@@ -16,4 +16,4 @@ Feel free to bring some snacks, drinks or some games, if you would like some!
 
 📍Brechtbau room 033
 
-![MAmingle](files/events/MAxmasMingle.jpg)
+![MAmingle](files/events/2025_MAxmasMingle.jpg)

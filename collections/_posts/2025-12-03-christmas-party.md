@@ -15,4 +15,4 @@ There'll be Glühwein & Kinderpunsch, soft drinks and various snacks.
 
 P.S.: because the university won't reimburse us for everything, there will be a voluntary donation jar :)
 
-![GameNight](files/events/CL&GL CHRISTMAS PARTY.png)
+![GameNight](files/events/2025_CL&GL CHRISTMAS PARTY.png)
