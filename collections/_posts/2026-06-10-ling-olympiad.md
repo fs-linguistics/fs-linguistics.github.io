@@ -5,6 +5,7 @@ date: 2026-06-10
 ---
 
 <img src="/files/events//2026_ling_oly.jpeg" alt="ling_oly_poster" width="300"/>
+
 The Computational/General Linguistics Fachschaft invites you to the II Tübingen Linguistics Olympiad!
 
 Just like last year, the only thing you need is simple logical puzzle-solving, a sprinkle of pattern recognition, and most of all — fun! No linguistic theories are to be tested.
