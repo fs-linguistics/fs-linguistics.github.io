@@ -40,11 +40,11 @@ GEM
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
     execjs (2.10.0)
-    faraday (2.14.1)
+    faraday (2.14.2)
       faraday-net_http (>= 2.0, < 3.5)
       json
       logger
-    faraday-net_http (3.4.2)
+    faraday-net_http (3.4.4)
       net-http (~> 0.5)
     ffi (1.17.0)
     forwardable-extended (2.6.0)
@@ -276,7 +276,7 @@ GEM
     tzinfo-data (1.2021.1)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
-    uri (1.0.4)
+    uri (1.1.1)
     webrick (1.8.2)
 
 PLATFORMS
@@ -286,7 +286,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport (>= 6.0.3.1)
-  faraday (~> 2.14.1)
+  faraday (~> 2.14.2)
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-include-cache
