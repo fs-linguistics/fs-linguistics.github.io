@@ -12,7 +12,7 @@ Just like last year, the only thing you need is simple logical puzzle-solving, a
 
 When? 📅 June 27th 🕥 11:30
 
-Where? 📍 Brechtbau, room TBA
+Where? 📍 Brechtbau, room 027
 
 Who can participate? 👩‍🎓 Students from all departments
 
