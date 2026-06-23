@@ -30,7 +30,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Making the Minimal Mistakes theme work: (run `bundle update`)
 gem 'jekyll-include-cache'
-gem 'faraday', '~> 2.14.2'
+gem 'faraday', '~> 2.14.3'
 gem 'jekyll-paginate'
 
 # For the calendar link:
