@@ -1,6 +1,6 @@
 ---
 layout: single
-title: LaTeX workshop
+title: II Tübingen Linguistics Olympiad
 date: 2026-06-10
 ---
 ⚠️POSTPONED TO 4TH OF JULY⚠️
