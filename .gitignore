@@ -39,3 +39,7 @@ files/thesis/tex/main.aux
 files/thesis/tex/main.fdb_latexmk
 files/thesis/tex/main.fls
 files/thesis/tex/main.log
+
+# Bundler
+vendor/
+.bundle/
